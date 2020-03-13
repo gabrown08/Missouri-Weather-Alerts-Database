@@ -23,20 +23,24 @@ def alerts(area="MO"):
     #create empty dictionary if date does not yet exist
     except:
         log[update_date] = {}
-    #generate list of current events as new entry in database
-    new_list = [{'event':new_data['features'][i]['properties']['event'],
-                'issued':new_data['features'][i]['properties']['effective'],
-                'expires':new_data['features'][i]['properties']['expires'],
-                'counties affected':new_data['features'][i]['properties']['areaDesc'],
-                'description':new_data['features'][i]['properties']['description'].replace('\n', ' '),
-                }
-                for i in range(len(new_data['features']))
-                ]
-    #store new alerts list in database
-    log[update_date][update_time] = new_list
-    #save database as JSON file on computer
-    with open('MO_alerts_log_v2.json', 'w') as f:
-        f.write(str(json.dumps(log, indent=2)))
+    try:
+        log[update_date][update_time]
+    except:
+        #generate list of current events as new entry in database
+        new_list = [{'event':new_data['features'][i]['properties']['event'],
+                    'issued':new_data['features'][i]['properties']['effective'],
+                    'expires':new_data['features'][i]['properties']['expires'],
+                    'counties affected':new_data['features'][i]['properties']['areaDesc'],
+                    'description':new_data['features'][i]['properties']['description'].replace('\n', ' '),
+                    }
+                    for i in range(len(new_data['features']))
+                    ]
+        #if new list of alerts is not already in database under current date and time, add it to database, and save file
+        if new_list not in log[update_time].values():
+            log[update_date][update_time] = new_list
+            #save updated file to computer
+            with open('MO_alerts_log_v2.json', 'w') as f:
+                f.write(str(json.dumps(log, indent=3)))
     #return
     return(new_data)
 
