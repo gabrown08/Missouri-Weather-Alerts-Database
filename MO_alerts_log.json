@@ -1,0 +1,1360 @@
+{
+   "2020-03-12T18:54:43+00:00": [
+      {
+         "event": "Flood Advisory",
+         "issued": "2020-03-12T13:46:00-05:00",
+         "expires": "2020-03-12T16:45:00-05:00",
+         "counties affected": "Jefferson, IL; Wayne, IL; Jackson, IL; Franklin, IL; Hamilton, IL; Perry, MO; Perry, IL; Williamson, IL",
+         "description": "The National Weather Service in Paducah has issued a  * Urban and Small Stream Flood Advisory for... Perry County in south central Illinois... Southwestern Wayne County in south central Illinois... Southern Jefferson County in south central Illinois... Williamson County in southern Illinois... Jackson County in southern Illinois... Franklin County in south central Illinois... Hamilton County in south central Illinois... East central Perry County in southeastern Missouri...  * Until 445 PM CDT.  * At 143 PM CDT, trained weather spotters reported heavy rain in Perry County due to a line of thunderstorms. This will cause urban and small stream flooding. Up to one inch of rain has already fallen. These storms will produce extremely heavy rain as they move southeast through parts of Illinois. Expect very low visibilities, standing water on roadways and quickly filling ditches.  * Some locations that will experience flooding include... Carbondale, Marion, Herrin, West Frankfort, Murphysboro, Benton, Du Quoin, Pinckneyville, Carterville, Johnston City, Mcleansboro, Christopher, Rend Lake Area, Sesser, Zeigler, De Soto, Crainville, Cambria, Royalton and Energy."
+      },
+      {
+         "event": "Special Weather Statement",
+         "issued": "2020-03-12T12:36:00-05:00",
+         "expires": "2020-03-12T14:45:00-05:00",
+         "counties affected": "Warrick; Stoddard; Perry; McCracken; Jefferson; Todd; White; Christian; Pulaski; Calloway; Gallatin; Hickman; Union; Saline; Hopkins; Vanderburgh; Posey; Ballard; Scott; Pope; Fulton; New Madrid; Cape Girardeau; Gibson; Caldwell; Muhlenberg; Wabash; Marshall; Williamson; Hardin; Mississippi; Webster; Massac; Daviess; Johnson; Trigg; Edwards; Bollinger; Hamilton; Spencer; Livingston; Pike; McLean; Perry; Graves; Alexander; Henderson; Union; Jackson; Lyon; Franklin; Wayne; Crittenden; Carlisle",
+         "description": "At 1235 PM, scattered thunderstorms continued across west Kentucky into southeast Missouri. Another area had moved into southwest Illinois. Movement was to the east, northeast around 40 mph. Some of the storms have produced hail that has averaged dime size.  Through 200 PM, the stronger storms will be capable of at least dime size hail. The threat for severe thunderstorms is forecast to increase as well. Remember, a Tornado Watch is in effect through 500 PM. Now is the time to know what to do in case a warning is issued for your area."
+      },
+      {
+         "event": "Flood Advisory",
+         "issued": "2020-03-12T12:11:00-05:00",
+         "expires": "2020-03-13T12:10:00-05:00",
+         "counties affected": "New Madrid, MO; Pemiscot, MO; Lake, TN",
+         "description": "...The National Weather Service in Memphis TN has issued a Flood Advisory for the Mississippi River...  Mississippi River at Tiptonville affecting New Madrid...Pemiscot and Lake Counties Mississippi River at Tunica Riverpark affecting Lee and Tunica Counties  The National Weather Service in Memphis TN has issued a * Flood Advisory for the Mississippi River at Tiptonville * from Thursday March 12 until Tuesday March 24. * At 11 AM Thursday the stage was 32.0 feet. * Flood stage is 37.0 feet. * Forecast...The river will rise to near 35.5 feet Sunday March 22. * At 36.0 feet...In Missouri, Most fields around Robinson Lake in Pemiscot County are covered by flood water."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T12:07:00-05:00",
+         "expires": "2020-03-13T16:06:00-05:00",
+         "counties affected": "Mississippi, MO; Fulton, KY; Hickman, KY; Alexander, IL; Carlisle, KY; Ballard, KY; Pulaski, IL",
+         "description": "...The flood warning continues for the following rivers in Illinois...Kentucky...Missouri...  Ohio River at Olmsted Lock and Dam affecting Pulaski and Ballard Counties Ohio River at Cairo affecting Alexander...Pulaski...Ballard... Carlisle...Fulton...Hickman and Mississippi Counties  .River levels have been fairly steady, and due to expected heavy rainfall, river levels are forecast to slowly rise over the next few days.  The Flood Warning continues for the Ohio River at Cairo. * until further notice. * At 11:00 AM Thursday the stage was 41.0 feet. * Flood Stage is 40.0 feet. * Minor flooding is occurring and Minor flooding is forecast. * Forecast...The river will continue rising to near 45.0 feet by Saturday morning then begin falling."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T12:05:00-05:00",
+         "expires": "2020-03-13T12:05:00-05:00",
+         "counties affected": "Lauderdale, TN; Dyer, TN; Pemiscot, MO; Lake, TN; Mississippi, AR",
+         "description": "...The National Weather Service has issued a Flood Warning for the Mississippi River...  The National Weather Service in Memphis TN has issued a  * Flood Warning for the Mississippi River at Caruthersville * from Thursday March 19 until Tuesday March 24. * At 11 AM Thursday the stage was...29.9 feet. * Minor flooding is forecast. * Maximum forecast stage of 33.5 feet on Monday March 23. * Flood stage is 32.0 feet. * Forecast to rise above flood stage by Thursday March 19 and continue to rise to near 33.5 feet by Monday March 23. The river will fall below flood stage by Tuesday March 24. * At 34.0 feet...In Tennessee, Barr Road along the Middle Fork of the Forked Deer River is flooding near the bridge at the south end of Watkins Road. Water from the north bottom of Lauderdale County is now flowing over the basin boundary into the south bottomm of Lauderdale County. In Missouri, large business just north of Caruthersville is beginning to flood. Many fields adjacent to the Interstate 155 bridge are flooded."
+      },
+      {
+         "event": "Tornado Watch",
+         "issued": "2020-03-12T11:46:00-05:00",
+         "expires": "2020-03-12T17:00:00-05:00",
+         "counties affected": "Jefferson, IL; Daviess, KY; Mississippi, MO; Wayne, IL; Henderson, KY; Carlisle, KY; Hamilton, IL; Johnson, IL; Scott, MO; Fulton, KY; Muhlenberg, KY; Lyon, KY; Hardin, IL; Crittenden, KY; Todd, KY; Williamson, IL; Calloway, KY; Graves, KY; Webster, KY; Stoddard, MO; Alexander, IL; Spencer, IN; Warrick, IN; New Madrid, MO; Hickman, KY; Trigg, KY; Livingston, KY; Pulaski, IL; Caldwell, KY; White, IL; Cape Girardeau, MO; Saline, IL; Perry, MO; McCracken, KY; Marshall, KY; Ballard, KY; Union, IL; Posey, IN; Jackson, IL; Franklin, IL; Union, KY; Perry, IL; Pike, IN; Edwards, IL; Gallatin, IL; McLean, KY; Gibson, IN; Christian, KY; Wabash, IL; Hopkins, KY; Vanderburgh, IN; Pope, IL; Bollinger, MO; Massac, IL",
+         "description": "THE NATIONAL WEATHER SERVICE HAS ISSUED TORNADO WATCH 46 IN EFFECT UNTIL 5 PM CDT THIS AFTERNOON FOR THE FOLLOWING AREAS  IN ILLINOIS THIS WATCH INCLUDES 19 COUNTIES  IN SOUTHEAST ILLINOIS  EDWARDS  IN SOUTHERN ILLINOIS  ALEXANDER             FRANKLIN              GALLATIN HAMILTON              HARDIN                JACKSON JEFFERSON             JOHNSON               MASSAC PERRY                 POPE                  PULASKI SALINE                UNION                 WABASH WAYNE                 WHITE                 WILLIAMSON  IN INDIANA THIS WATCH INCLUDES 6 COUNTIES  IN SOUTHWEST INDIANA  POSEY  IN SOUTHWEST INDIANA  GIBSON                PIKE                  SPENCER VANDERBURGH           WARRICK  IN KENTUCKY THIS WATCH INCLUDES 22 COUNTIES  IN WESTERN KENTUCKY  BALLARD               CALDWELL              CALLOWAY CARLISLE              CHRISTIAN             CRITTENDEN DAVIESS               FULTON                GRAVES HENDERSON             HICKMAN               HOPKINS LIVINGSTON            LYON                  MARSHALL MCCRACKEN             MCLEAN                MUHLENBERG TODD                  TRIGG                 UNION WEBSTER  IN MISSOURI THIS WATCH INCLUDES 7 COUNTIES  IN SOUTHEAST MISSOURI  BOLLINGER             CAPE GIRARDEAU        MISSISSIPPI NEW MADRID            PERRY                 SCOTT STODDARD  THIS INCLUDES THE CITIES OF ALBION, BARDWELL, BENTON, BLOOMFIELD, BOONVILLE, CADIZ, CAIRO, CALHOUN, CAPE GIRARDEAU, CARBONDALE, CARMI, CHARLESTON, CLINTON, DIXON, EDDYVILLE, ELIZABETHTOWN, ELKTON, EVANSVILLE, FAIRFIELD, FORT BRANCH, GOLCONDA, GRAYVILLE, GREENVILLE, HARRISBURG, HENDERSON, HERRIN, HICKMAN, HOPKINSVILLE, JACKSON, JONESBORO, MADISONVILLE, MARBLE HILL, MARION, MAYFIELD, MCLEANSBORO, METROPOLIS, MORGANFIELD, MOUND CITY, MOUNT CARMEL, MOUNT VERNON, MURPHYSBORO, MURRAY, NEW MADRID, OWENSBORO, PADUCAH, PERRYVILLE, PETERSBURG, PINCKNEYVILLE, POSEYVILLE, PRINCETON, ROCKPORT, SHAWNEETOWN, SIKESTON, SMITHLAND, VIENNA, WEST FRANKFORT, WEST SALEM, AND WICKLIFFE."
+      },
+      {
+         "event": "Tornado Watch",
+         "issued": "2020-03-12T11:44:00-05:00",
+         "expires": "2020-03-12T17:00:00-05:00",
+         "counties affected": "Henry, TN; Benton, TN; Carroll, TN; Weakley, TN; Dyer, TN; Obion, TN; Pemiscot, MO; Lake, TN; Gibson, TN",
+         "description": "THE NATIONAL WEATHER SERVICE HAS ISSUED TORNADO WATCH 46 IN EFFECT UNTIL 5 PM CDT THIS AFTERNOON FOR THE FOLLOWING AREAS  IN MISSOURI THIS WATCH INCLUDES 1 COUNTY  IN SOUTHEAST MISSOURI  PEMISCOT  IN TENNESSEE THIS WATCH INCLUDES 8 COUNTIES  IN WEST TENNESSEE  BENTON                CARROLL               DYER GIBSON                HENRY                 LAKE OBION                 WEAKLEY  THIS INCLUDES THE CITIES OF CAMDEN, CARUTHERSVILLE, DRESDEN, DYERSBURG, HUMBOLDT, HUNTINGDON, MARTIN, MILAN, PARIS, TIPTONVILLE, AND UNION CITY."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T11:06:00-05:00",
+         "expires": "2020-03-13T17:04:00-05:00",
+         "counties affected": "Montgomery, MO; Gasconade, MO",
+         "description": "...The flood warning continues for the following river in Missouri...   Missouri River near Chamois  Missouri River at Gasconade  River forecasts are based on observed precipitation and forecast precipitation for the next 48 hours.  The Flood Warning continues for the Missouri River at Gasconade * until Sunday morning. * At  7:00 AM Thursday the stage was estimated at 23.9 feet. * Flood stage is 22.0 feet. * Minor flooding is forecast. * The river is expected to be cresting now and is forecast to fall below flood stage late tonight. * Impact:  At 23.5 feet...The southern end of School House Road south of Rhineland begins flooding near this height."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T11:06:00-05:00",
+         "expires": "2020-03-13T17:04:00-05:00",
+         "counties affected": "Callaway, MO; Osage, MO",
+         "description": "...The flood warning continues for the following river in Missouri...   Missouri River near Chamois  Missouri River at Gasconade  River forecasts are based on observed precipitation and forecast precipitation for the next 48 hours.  The Flood Warning continues for the Missouri River near Chamois * until late Friday night. * At  7:48 AM Thursday the stage was 17.0 feet. * Flood stage is 17.0 feet. * The river is forecast to continue falling to below flood stage this afternoon. * Impact:  At 17.0 feet...Flood Stage:  Lower lying bottom land begins to flood."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T08:21:00-05:00",
+         "expires": "2020-03-12T23:20:00-05:00",
+         "counties affected": "Vernon, MO",
+         "description": "...The Flood Warning continues for the following rivers in Missouri...  Little Osage River near Horton affecting Vernon County Marmaton River near Nevada affecting Vernon County  .Heavy rainfall Wednesday caused river levels to rise above flood stage."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T08:21:00-05:00",
+         "expires": "2020-03-12T23:20:00-05:00",
+         "counties affected": "Vernon, MO",
+         "description": "...The Flood Warning continues for the following rivers in Missouri...  Little Osage River near Horton affecting Vernon County Marmaton River near Nevada affecting Vernon County  .Heavy rainfall Wednesday caused river levels to rise above flood stage."
+      }
+   ],
+   "2020-03-12T14:45:00-05:00": [
+      {
+         "event": "Flood Advisory",
+         "issued": "2020-03-12T13:46:00-05:00",
+         "expires": "2020-03-12T16:45:00-05:00",
+         "counties affected": "Jefferson, IL; Wayne, IL; Jackson, IL; Franklin, IL; Hamilton, IL; Perry, MO; Perry, IL; Williamson, IL",
+         "description": "The National Weather Service in Paducah has issued a  * Urban and Small Stream Flood Advisory for... Perry County in south central Illinois... Southwestern Wayne County in south central Illinois... Southern Jefferson County in south central Illinois... Williamson County in southern Illinois... Jackson County in southern Illinois... Franklin County in south central Illinois... Hamilton County in south central Illinois... East central Perry County in southeastern Missouri...  * Until 445 PM CDT.  * At 143 PM CDT, trained weather spotters reported heavy rain in Perry County due to a line of thunderstorms. This will cause urban and small stream flooding. Up to one inch of rain has already fallen. These storms will produce extremely heavy rain as they move southeast through parts of Illinois. Expect very low visibilities, standing water on roadways and quickly filling ditches.  * Some locations that will experience flooding include... Carbondale, Marion, Herrin, West Frankfort, Murphysboro, Benton, Du Quoin, Pinckneyville, Carterville, Johnston City, Mcleansboro, Christopher, Rend Lake Area, Sesser, Zeigler, De Soto, Crainville, Cambria, Royalton and Energy."
+      },
+      {
+         "event": "Flood Advisory",
+         "issued": "2020-03-12T12:11:00-05:00",
+         "expires": "2020-03-13T12:10:00-05:00",
+         "counties affected": "New Madrid, MO; Pemiscot, MO; Lake, TN",
+         "description": "...The National Weather Service in Memphis TN has issued a Flood Advisory for the Mississippi River...  Mississippi River at Tiptonville affecting New Madrid...Pemiscot and Lake Counties Mississippi River at Tunica Riverpark affecting Lee and Tunica Counties  The National Weather Service in Memphis TN has issued a * Flood Advisory for the Mississippi River at Tiptonville * from Thursday March 12 until Tuesday March 24. * At 11 AM Thursday the stage was 32.0 feet. * Flood stage is 37.0 feet. * Forecast...The river will rise to near 35.5 feet Sunday March 22. * At 36.0 feet...In Missouri, Most fields around Robinson Lake in Pemiscot County are covered by flood water."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T12:07:00-05:00",
+         "expires": "2020-03-13T16:06:00-05:00",
+         "counties affected": "Mississippi, MO; Fulton, KY; Hickman, KY; Alexander, IL; Carlisle, KY; Ballard, KY; Pulaski, IL",
+         "description": "...The flood warning continues for the following rivers in Illinois...Kentucky...Missouri...  Ohio River at Olmsted Lock and Dam affecting Pulaski and Ballard Counties Ohio River at Cairo affecting Alexander...Pulaski...Ballard... Carlisle...Fulton...Hickman and Mississippi Counties  .River levels have been fairly steady, and due to expected heavy rainfall, river levels are forecast to slowly rise over the next few days.  The Flood Warning continues for the Ohio River at Cairo. * until further notice. * At 11:00 AM Thursday the stage was 41.0 feet. * Flood Stage is 40.0 feet. * Minor flooding is occurring and Minor flooding is forecast. * Forecast...The river will continue rising to near 45.0 feet by Saturday morning then begin falling."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T12:05:00-05:00",
+         "expires": "2020-03-13T12:05:00-05:00",
+         "counties affected": "Lauderdale, TN; Dyer, TN; Pemiscot, MO; Lake, TN; Mississippi, AR",
+         "description": "...The National Weather Service has issued a Flood Warning for the Mississippi River...  The National Weather Service in Memphis TN has issued a  * Flood Warning for the Mississippi River at Caruthersville * from Thursday March 19 until Tuesday March 24. * At 11 AM Thursday the stage was...29.9 feet. * Minor flooding is forecast. * Maximum forecast stage of 33.5 feet on Monday March 23. * Flood stage is 32.0 feet. * Forecast to rise above flood stage by Thursday March 19 and continue to rise to near 33.5 feet by Monday March 23. The river will fall below flood stage by Tuesday March 24. * At 34.0 feet...In Tennessee, Barr Road along the Middle Fork of the Forked Deer River is flooding near the bridge at the south end of Watkins Road. Water from the north bottom of Lauderdale County is now flowing over the basin boundary into the south bottomm of Lauderdale County. In Missouri, large business just north of Caruthersville is beginning to flood. Many fields adjacent to the Interstate 155 bridge are flooded."
+      },
+      {
+         "event": "Tornado Watch",
+         "issued": "2020-03-12T11:46:00-05:00",
+         "expires": "2020-03-12T17:00:00-05:00",
+         "counties affected": "Jefferson, IL; Daviess, KY; Mississippi, MO; Wayne, IL; Henderson, KY; Carlisle, KY; Hamilton, IL; Johnson, IL; Scott, MO; Fulton, KY; Muhlenberg, KY; Lyon, KY; Hardin, IL; Crittenden, KY; Todd, KY; Williamson, IL; Calloway, KY; Graves, KY; Webster, KY; Stoddard, MO; Alexander, IL; Spencer, IN; Warrick, IN; New Madrid, MO; Hickman, KY; Trigg, KY; Livingston, KY; Pulaski, IL; Caldwell, KY; White, IL; Cape Girardeau, MO; Saline, IL; Perry, MO; McCracken, KY; Marshall, KY; Ballard, KY; Union, IL; Posey, IN; Jackson, IL; Franklin, IL; Union, KY; Perry, IL; Pike, IN; Edwards, IL; Gallatin, IL; McLean, KY; Gibson, IN; Christian, KY; Wabash, IL; Hopkins, KY; Vanderburgh, IN; Pope, IL; Bollinger, MO; Massac, IL",
+         "description": "THE NATIONAL WEATHER SERVICE HAS ISSUED TORNADO WATCH 46 IN EFFECT UNTIL 5 PM CDT THIS AFTERNOON FOR THE FOLLOWING AREAS  IN ILLINOIS THIS WATCH INCLUDES 19 COUNTIES  IN SOUTHEAST ILLINOIS  EDWARDS  IN SOUTHERN ILLINOIS  ALEXANDER             FRANKLIN              GALLATIN HAMILTON              HARDIN                JACKSON JEFFERSON             JOHNSON               MASSAC PERRY                 POPE                  PULASKI SALINE                UNION                 WABASH WAYNE                 WHITE                 WILLIAMSON  IN INDIANA THIS WATCH INCLUDES 6 COUNTIES  IN SOUTHWEST INDIANA  POSEY  IN SOUTHWEST INDIANA  GIBSON                PIKE                  SPENCER VANDERBURGH           WARRICK  IN KENTUCKY THIS WATCH INCLUDES 22 COUNTIES  IN WESTERN KENTUCKY  BALLARD               CALDWELL              CALLOWAY CARLISLE              CHRISTIAN             CRITTENDEN DAVIESS               FULTON                GRAVES HENDERSON             HICKMAN               HOPKINS LIVINGSTON            LYON                  MARSHALL MCCRACKEN             MCLEAN                MUHLENBERG TODD                  TRIGG                 UNION WEBSTER  IN MISSOURI THIS WATCH INCLUDES 7 COUNTIES  IN SOUTHEAST MISSOURI  BOLLINGER             CAPE GIRARDEAU        MISSISSIPPI NEW MADRID            PERRY                 SCOTT STODDARD  THIS INCLUDES THE CITIES OF ALBION, BARDWELL, BENTON, BLOOMFIELD, BOONVILLE, CADIZ, CAIRO, CALHOUN, CAPE GIRARDEAU, CARBONDALE, CARMI, CHARLESTON, CLINTON, DIXON, EDDYVILLE, ELIZABETHTOWN, ELKTON, EVANSVILLE, FAIRFIELD, FORT BRANCH, GOLCONDA, GRAYVILLE, GREENVILLE, HARRISBURG, HENDERSON, HERRIN, HICKMAN, HOPKINSVILLE, JACKSON, JONESBORO, MADISONVILLE, MARBLE HILL, MARION, MAYFIELD, MCLEANSBORO, METROPOLIS, MORGANFIELD, MOUND CITY, MOUNT CARMEL, MOUNT VERNON, MURPHYSBORO, MURRAY, NEW MADRID, OWENSBORO, PADUCAH, PERRYVILLE, PETERSBURG, PINCKNEYVILLE, POSEYVILLE, PRINCETON, ROCKPORT, SHAWNEETOWN, SIKESTON, SMITHLAND, VIENNA, WEST FRANKFORT, WEST SALEM, AND WICKLIFFE."
+      },
+      {
+         "event": "Tornado Watch",
+         "issued": "2020-03-12T11:44:00-05:00",
+         "expires": "2020-03-12T17:00:00-05:00",
+         "counties affected": "Henry, TN; Benton, TN; Carroll, TN; Weakley, TN; Dyer, TN; Obion, TN; Pemiscot, MO; Lake, TN; Gibson, TN",
+         "description": "THE NATIONAL WEATHER SERVICE HAS ISSUED TORNADO WATCH 46 IN EFFECT UNTIL 5 PM CDT THIS AFTERNOON FOR THE FOLLOWING AREAS  IN MISSOURI THIS WATCH INCLUDES 1 COUNTY  IN SOUTHEAST MISSOURI  PEMISCOT  IN TENNESSEE THIS WATCH INCLUDES 8 COUNTIES  IN WEST TENNESSEE  BENTON                CARROLL               DYER GIBSON                HENRY                 LAKE OBION                 WEAKLEY  THIS INCLUDES THE CITIES OF CAMDEN, CARUTHERSVILLE, DRESDEN, DYERSBURG, HUMBOLDT, HUNTINGDON, MARTIN, MILAN, PARIS, TIPTONVILLE, AND UNION CITY."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T11:06:00-05:00",
+         "expires": "2020-03-13T17:04:00-05:00",
+         "counties affected": "Montgomery, MO; Gasconade, MO",
+         "description": "...The flood warning continues for the following river in Missouri...   Missouri River near Chamois  Missouri River at Gasconade  River forecasts are based on observed precipitation and forecast precipitation for the next 48 hours.  The Flood Warning continues for the Missouri River at Gasconade * until Sunday morning. * At  7:00 AM Thursday the stage was estimated at 23.9 feet. * Flood stage is 22.0 feet. * Minor flooding is forecast. * The river is expected to be cresting now and is forecast to fall below flood stage late tonight. * Impact:  At 23.5 feet...The southern end of School House Road south of Rhineland begins flooding near this height."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T11:06:00-05:00",
+         "expires": "2020-03-13T17:04:00-05:00",
+         "counties affected": "Callaway, MO; Osage, MO",
+         "description": "...The flood warning continues for the following river in Missouri...   Missouri River near Chamois  Missouri River at Gasconade  River forecasts are based on observed precipitation and forecast precipitation for the next 48 hours.  The Flood Warning continues for the Missouri River near Chamois * until late Friday night. * At  7:48 AM Thursday the stage was 17.0 feet. * Flood stage is 17.0 feet. * The river is forecast to continue falling to below flood stage this afternoon. * Impact:  At 17.0 feet...Flood Stage:  Lower lying bottom land begins to flood."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T08:21:00-05:00",
+         "expires": "2020-03-12T23:20:00-05:00",
+         "counties affected": "Vernon, MO",
+         "description": "...The Flood Warning continues for the following rivers in Missouri...  Little Osage River near Horton affecting Vernon County Marmaton River near Nevada affecting Vernon County  .Heavy rainfall Wednesday caused river levels to rise above flood stage."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T08:21:00-05:00",
+         "expires": "2020-03-12T23:20:00-05:00",
+         "counties affected": "Vernon, MO",
+         "description": "...The Flood Warning continues for the following rivers in Missouri...  Little Osage River near Horton affecting Vernon County Marmaton River near Nevada affecting Vernon County  .Heavy rainfall Wednesday caused river levels to rise above flood stage."
+      }
+   ],
+   "2020-03-12T20:02:31+00:00": [
+      {
+         "event": "Special Weather Statement",
+         "issued": "2020-03-12T15:00:00-05:00",
+         "expires": "2020-03-12T17:00:00-05:00",
+         "counties affected": "Wayne; Stoddard; Perry; McCracken; Graves; Mississippi; Alexander; Ripley; Massac; Union; Ballard; Carter; Pulaski; Butler; Scott; Johnson; Fulton; New Madrid; Cape Girardeau; Bollinger; Carlisle; Hickman",
+         "description": "Scattered thunderstorms will likely develop along a cold front by 4 or 5 PM across southeast Missouri, with the activity moving east, southeast into far southern Illinois and far west Kentucky through the early evening hours.  Any of the storms along the front may become severe. All hazards will be possible, including tornadoes, large hail and damaging winds. Continue to monitor the weather closely, and be prepared to implement your plan of action should a warning be issued for your location. Do not wait until you see a tornado, high winds or hail to take shelter."
+      },
+      {
+         "event": "Special Weather Statement",
+         "issued": "2020-03-12T14:59:00-05:00",
+         "expires": "2020-03-12T17:00:00-05:00",
+         "counties affected": "Wayne; Stoddard; Perry; McCracken; Graves; Mississippi; Alexander; Ripley; Massac; Union; Ballard; Carter; Pulaski; Butler; Scott; Johnson; Fulton; New Madrid; Cape Girardeau; Bollinger; Carlisle; Hickman",
+         "description": "Scattered thunderstorms will likely develop along a cold front by 4 or 5 PM across southeast Missouri, with the activity moving east, southeast into far southern Illinois and fr west Kentucky through the early evening hours.  Any of the storms along the front may become severe. All hazards will be possible, including tornadoes, large hail and damaging winds. Continue to monitor the weather closely, and be prepared to implement your plan of action should a warning be issued for your location. Do not wait until you see a tornado, high winds or hail to take shelter."
+      },
+      {
+         "event": "Flood Advisory",
+         "issued": "2020-03-12T13:46:00-05:00",
+         "expires": "2020-03-12T16:45:00-05:00",
+         "counties affected": "Jefferson, IL; Wayne, IL; Jackson, IL; Franklin, IL; Hamilton, IL; Perry, MO; Perry, IL; Williamson, IL",
+         "description": "The National Weather Service in Paducah has issued a  * Urban and Small Stream Flood Advisory for... Perry County in south central Illinois... Southwestern Wayne County in south central Illinois... Southern Jefferson County in south central Illinois... Williamson County in southern Illinois... Jackson County in southern Illinois... Franklin County in south central Illinois... Hamilton County in south central Illinois... East central Perry County in southeastern Missouri...  * Until 445 PM CDT.  * At 143 PM CDT, trained weather spotters reported heavy rain in Perry County due to a line of thunderstorms. This will cause urban and small stream flooding. Up to one inch of rain has already fallen. These storms will produce extremely heavy rain as they move southeast through parts of Illinois. Expect very low visibilities, standing water on roadways and quickly filling ditches.  * Some locations that will experience flooding include... Carbondale, Marion, Herrin, West Frankfort, Murphysboro, Benton, Du Quoin, Pinckneyville, Carterville, Johnston City, Mcleansboro, Christopher, Rend Lake Area, Sesser, Zeigler, De Soto, Crainville, Cambria, Royalton and Energy."
+      },
+      {
+         "event": "Flood Advisory",
+         "issued": "2020-03-12T12:11:00-05:00",
+         "expires": "2020-03-13T12:10:00-05:00",
+         "counties affected": "New Madrid, MO; Pemiscot, MO; Lake, TN",
+         "description": "...The National Weather Service in Memphis TN has issued a Flood Advisory for the Mississippi River...  Mississippi River at Tiptonville affecting New Madrid...Pemiscot and Lake Counties Mississippi River at Tunica Riverpark affecting Lee and Tunica Counties  The National Weather Service in Memphis TN has issued a * Flood Advisory for the Mississippi River at Tiptonville * from Thursday March 12 until Tuesday March 24. * At 11 AM Thursday the stage was 32.0 feet. * Flood stage is 37.0 feet. * Forecast...The river will rise to near 35.5 feet Sunday March 22. * At 36.0 feet...In Missouri, Most fields around Robinson Lake in Pemiscot County are covered by flood water."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T12:07:00-05:00",
+         "expires": "2020-03-13T16:06:00-05:00",
+         "counties affected": "Mississippi, MO; Fulton, KY; Hickman, KY; Alexander, IL; Carlisle, KY; Ballard, KY; Pulaski, IL",
+         "description": "...The flood warning continues for the following rivers in Illinois...Kentucky...Missouri...  Ohio River at Olmsted Lock and Dam affecting Pulaski and Ballard Counties Ohio River at Cairo affecting Alexander...Pulaski...Ballard... Carlisle...Fulton...Hickman and Mississippi Counties  .River levels have been fairly steady, and due to expected heavy rainfall, river levels are forecast to slowly rise over the next few days.  The Flood Warning continues for the Ohio River at Cairo. * until further notice. * At 11:00 AM Thursday the stage was 41.0 feet. * Flood Stage is 40.0 feet. * Minor flooding is occurring and Minor flooding is forecast. * Forecast...The river will continue rising to near 45.0 feet by Saturday morning then begin falling."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T12:05:00-05:00",
+         "expires": "2020-03-13T12:05:00-05:00",
+         "counties affected": "Lauderdale, TN; Dyer, TN; Pemiscot, MO; Lake, TN; Mississippi, AR",
+         "description": "...The National Weather Service has issued a Flood Warning for the Mississippi River...  The National Weather Service in Memphis TN has issued a  * Flood Warning for the Mississippi River at Caruthersville * from Thursday March 19 until Tuesday March 24. * At 11 AM Thursday the stage was...29.9 feet. * Minor flooding is forecast. * Maximum forecast stage of 33.5 feet on Monday March 23. * Flood stage is 32.0 feet. * Forecast to rise above flood stage by Thursday March 19 and continue to rise to near 33.5 feet by Monday March 23. The river will fall below flood stage by Tuesday March 24. * At 34.0 feet...In Tennessee, Barr Road along the Middle Fork of the Forked Deer River is flooding near the bridge at the south end of Watkins Road. Water from the north bottom of Lauderdale County is now flowing over the basin boundary into the south bottomm of Lauderdale County. In Missouri, large business just north of Caruthersville is beginning to flood. Many fields adjacent to the Interstate 155 bridge are flooded."
+      },
+      {
+         "event": "Tornado Watch",
+         "issued": "2020-03-12T11:46:00-05:00",
+         "expires": "2020-03-12T17:00:00-05:00",
+         "counties affected": "Jefferson, IL; Daviess, KY; Mississippi, MO; Wayne, IL; Henderson, KY; Carlisle, KY; Hamilton, IL; Johnson, IL; Scott, MO; Fulton, KY; Muhlenberg, KY; Lyon, KY; Hardin, IL; Crittenden, KY; Todd, KY; Williamson, IL; Calloway, KY; Graves, KY; Webster, KY; Stoddard, MO; Alexander, IL; Spencer, IN; Warrick, IN; New Madrid, MO; Hickman, KY; Trigg, KY; Livingston, KY; Pulaski, IL; Caldwell, KY; White, IL; Cape Girardeau, MO; Saline, IL; Perry, MO; McCracken, KY; Marshall, KY; Ballard, KY; Union, IL; Posey, IN; Jackson, IL; Franklin, IL; Union, KY; Perry, IL; Pike, IN; Edwards, IL; Gallatin, IL; McLean, KY; Gibson, IN; Christian, KY; Wabash, IL; Hopkins, KY; Vanderburgh, IN; Pope, IL; Bollinger, MO; Massac, IL",
+         "description": "THE NATIONAL WEATHER SERVICE HAS ISSUED TORNADO WATCH 46 IN EFFECT UNTIL 5 PM CDT THIS AFTERNOON FOR THE FOLLOWING AREAS  IN ILLINOIS THIS WATCH INCLUDES 19 COUNTIES  IN SOUTHEAST ILLINOIS  EDWARDS  IN SOUTHERN ILLINOIS  ALEXANDER             FRANKLIN              GALLATIN HAMILTON              HARDIN                JACKSON JEFFERSON             JOHNSON               MASSAC PERRY                 POPE                  PULASKI SALINE                UNION                 WABASH WAYNE                 WHITE                 WILLIAMSON  IN INDIANA THIS WATCH INCLUDES 6 COUNTIES  IN SOUTHWEST INDIANA  POSEY  IN SOUTHWEST INDIANA  GIBSON                PIKE                  SPENCER VANDERBURGH           WARRICK  IN KENTUCKY THIS WATCH INCLUDES 22 COUNTIES  IN WESTERN KENTUCKY  BALLARD               CALDWELL              CALLOWAY CARLISLE              CHRISTIAN             CRITTENDEN DAVIESS               FULTON                GRAVES HENDERSON             HICKMAN               HOPKINS LIVINGSTON            LYON                  MARSHALL MCCRACKEN             MCLEAN                MUHLENBERG TODD                  TRIGG                 UNION WEBSTER  IN MISSOURI THIS WATCH INCLUDES 7 COUNTIES  IN SOUTHEAST MISSOURI  BOLLINGER             CAPE GIRARDEAU        MISSISSIPPI NEW MADRID            PERRY                 SCOTT STODDARD  THIS INCLUDES THE CITIES OF ALBION, BARDWELL, BENTON, BLOOMFIELD, BOONVILLE, CADIZ, CAIRO, CALHOUN, CAPE GIRARDEAU, CARBONDALE, CARMI, CHARLESTON, CLINTON, DIXON, EDDYVILLE, ELIZABETHTOWN, ELKTON, EVANSVILLE, FAIRFIELD, FORT BRANCH, GOLCONDA, GRAYVILLE, GREENVILLE, HARRISBURG, HENDERSON, HERRIN, HICKMAN, HOPKINSVILLE, JACKSON, JONESBORO, MADISONVILLE, MARBLE HILL, MARION, MAYFIELD, MCLEANSBORO, METROPOLIS, MORGANFIELD, MOUND CITY, MOUNT CARMEL, MOUNT VERNON, MURPHYSBORO, MURRAY, NEW MADRID, OWENSBORO, PADUCAH, PERRYVILLE, PETERSBURG, PINCKNEYVILLE, POSEYVILLE, PRINCETON, ROCKPORT, SHAWNEETOWN, SIKESTON, SMITHLAND, VIENNA, WEST FRANKFORT, WEST SALEM, AND WICKLIFFE."
+      },
+      {
+         "event": "Tornado Watch",
+         "issued": "2020-03-12T11:44:00-05:00",
+         "expires": "2020-03-12T17:00:00-05:00",
+         "counties affected": "Henry, TN; Benton, TN; Carroll, TN; Weakley, TN; Dyer, TN; Obion, TN; Pemiscot, MO; Lake, TN; Gibson, TN",
+         "description": "THE NATIONAL WEATHER SERVICE HAS ISSUED TORNADO WATCH 46 IN EFFECT UNTIL 5 PM CDT THIS AFTERNOON FOR THE FOLLOWING AREAS  IN MISSOURI THIS WATCH INCLUDES 1 COUNTY  IN SOUTHEAST MISSOURI  PEMISCOT  IN TENNESSEE THIS WATCH INCLUDES 8 COUNTIES  IN WEST TENNESSEE  BENTON                CARROLL               DYER GIBSON                HENRY                 LAKE OBION                 WEAKLEY  THIS INCLUDES THE CITIES OF CAMDEN, CARUTHERSVILLE, DRESDEN, DYERSBURG, HUMBOLDT, HUNTINGDON, MARTIN, MILAN, PARIS, TIPTONVILLE, AND UNION CITY."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T11:06:00-05:00",
+         "expires": "2020-03-13T17:04:00-05:00",
+         "counties affected": "Montgomery, MO; Gasconade, MO",
+         "description": "...The flood warning continues for the following river in Missouri...   Missouri River near Chamois  Missouri River at Gasconade  River forecasts are based on observed precipitation and forecast precipitation for the next 48 hours.  The Flood Warning continues for the Missouri River at Gasconade * until Sunday morning. * At  7:00 AM Thursday the stage was estimated at 23.9 feet. * Flood stage is 22.0 feet. * Minor flooding is forecast. * The river is expected to be cresting now and is forecast to fall below flood stage late tonight. * Impact:  At 23.5 feet...The southern end of School House Road south of Rhineland begins flooding near this height."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T11:06:00-05:00",
+         "expires": "2020-03-13T17:04:00-05:00",
+         "counties affected": "Callaway, MO; Osage, MO",
+         "description": "...The flood warning continues for the following river in Missouri...   Missouri River near Chamois  Missouri River at Gasconade  River forecasts are based on observed precipitation and forecast precipitation for the next 48 hours.  The Flood Warning continues for the Missouri River near Chamois * until late Friday night. * At  7:48 AM Thursday the stage was 17.0 feet. * Flood stage is 17.0 feet. * The river is forecast to continue falling to below flood stage this afternoon. * Impact:  At 17.0 feet...Flood Stage:  Lower lying bottom land begins to flood."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T08:21:00-05:00",
+         "expires": "2020-03-12T23:20:00-05:00",
+         "counties affected": "Vernon, MO",
+         "description": "...The Flood Warning continues for the following rivers in Missouri...  Little Osage River near Horton affecting Vernon County Marmaton River near Nevada affecting Vernon County  .Heavy rainfall Wednesday caused river levels to rise above flood stage."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T08:21:00-05:00",
+         "expires": "2020-03-12T23:20:00-05:00",
+         "counties affected": "Vernon, MO",
+         "description": "...The Flood Warning continues for the following rivers in Missouri...  Little Osage River near Horton affecting Vernon County Marmaton River near Nevada affecting Vernon County  .Heavy rainfall Wednesday caused river levels to rise above flood stage."
+      }
+   ],
+   "2020-03-12T20:47:43+00:00": [
+      {
+         "event": "Tornado Watch",
+         "issued": "2020-03-12T15:47:00-05:00",
+         "expires": "2020-03-12T23:00:00-05:00",
+         "counties affected": "Ste. Genevieve, MO; Reynolds, MO; Madison, MO; Iron, MO; St. Francois, MO",
+         "description": "THE NATIONAL WEATHER SERVICE HAS ISSUED TORNADO WATCH 47 IN EFFECT UNTIL 11 PM CDT THIS EVENING FOR THE FOLLOWING AREAS  IN MISSOURI THIS WATCH INCLUDES 5 COUNTIES  IN SOUTHEAST MISSOURI  IRON MO               MADISON MO            REYNOLDS MO SAINT FRANCOIS MO     SAINTE GENEVIEVE MO  THIS INCLUDES THE CITIES OF FARMINGTON."
+      },
+      {
+         "event": "Tornado Watch",
+         "issued": "2020-03-12T15:46:00-05:00",
+         "expires": "2020-03-12T23:00:00-05:00",
+         "counties affected": "Shannon, MO; Ozark, MO; Howell, MO; Oregon, MO",
+         "description": "THE NATIONAL WEATHER SERVICE HAS ISSUED TORNADO WATCH 47 IN EFFECT UNTIL 11 PM CDT THIS EVENING FOR THE FOLLOWING AREAS  IN MISSOURI THIS WATCH INCLUDES 4 COUNTIES  IN SOUTH CENTRAL MISSOURI  HOWELL                OREGON                SHANNON  IN SOUTHWEST MISSOURI  OZARK  THIS INCLUDES THE CITIES OF ALTON, BIRCH TREE, COUCH, GREER, MONTIER, POMONA, POTTERSVILLE, SILOAM SPRINGS, SOUTH FORK, TERESITA, THAYER, THOMASVILLE, WASOLA, WEST PLAINS, WHITE CHURCK, WILDERNESS, AND WINONA."
+      },
+      {
+         "event": "Tornado Watch",
+         "issued": "2020-03-12T15:44:00-05:00",
+         "expires": "2020-03-12T23:00:00-05:00",
+         "counties affected": "Lauderdale, TN; Craighead, AR; Poinsett, AR; Greene, AR; Dunklin, MO; Mississippi, AR; Cross, AR; Clay, AR",
+         "description": "THE NATIONAL WEATHER SERVICE HAS ISSUED TORNADO WATCH 47 IN EFFECT UNTIL 11 PM CDT THIS EVENING FOR THE FOLLOWING AREAS  IN ARKANSAS THIS WATCH INCLUDES 6 COUNTIES  IN EAST ARKANSAS  CLAY                  CRAIGHEAD             CROSS GREENE                MISSISSIPPI           POINSETT  IN MISSOURI THIS WATCH INCLUDES 1 COUNTY  IN SOUTHEAST MISSOURI  DUNKLIN  IN TENNESSEE THIS WATCH INCLUDES 1 COUNTY  IN WEST TENNESSEE  LAUDERDALE  THIS INCLUDES THE CITIES OF BLYTHEVILLE, CORNING, HARRISBURG, JONESBORO, KENNETT, PARAGOULD, PIGGOTT, RIPLEY TN, AND WYNNE."
+      },
+      {
+         "event": "Tornado Watch",
+         "issued": "2020-03-12T15:44:00-05:00",
+         "expires": "2020-03-12T23:00:00-05:00",
+         "counties affected": "Weakley, TN; Dyer, TN; Obion, TN; Pemiscot, MO; Lake, TN; Gibson, TN",
+         "description": "THE NATIONAL WEATHER SERVICE HAS ISSUED TORNADO WATCH 47 UNTIL 11 PM CDT THIS EVENING WHICH REPLACES A PORTION OF TORNADO WATCH 46. THE NEW WATCH IS VALID FOR THE FOLLOWING AREAS  IN MISSOURI THE NEW WATCH INCLUDES 1 COUNTY  IN SOUTHEAST MISSOURI  PEMISCOT  IN TENNESSEE THE NEW WATCH INCLUDES 5 COUNTIES  IN WEST TENNESSEE  DYER                  GIBSON                LAKE OBION                 WEAKLEY  THIS INCLUDES THE CITIES OF CARUTHERSVILLE, DRESDEN, DYERSBURG, HUMBOLDT, MARTIN, MILAN, TIPTONVILLE, AND UNION CITY."
+      },
+      {
+         "event": "Special Weather Statement",
+         "issued": "2020-03-12T15:00:00-05:00",
+         "expires": "2020-03-12T17:00:00-05:00",
+         "counties affected": "Wayne; Stoddard; Perry; McCracken; Graves; Mississippi; Alexander; Ripley; Massac; Union; Ballard; Carter; Pulaski; Butler; Scott; Johnson; Fulton; New Madrid; Cape Girardeau; Bollinger; Carlisle; Hickman",
+         "description": "Scattered thunderstorms will likely develop along a cold front by 4 or 5 PM across southeast Missouri, with the activity moving east, southeast into far southern Illinois and far west Kentucky through the early evening hours.  Any of the storms along the front may become severe. All hazards will be possible, including tornadoes, large hail and damaging winds. Continue to monitor the weather closely, and be prepared to implement your plan of action should a warning be issued for your location. Do not wait until you see a tornado, high winds or hail to take shelter."
+      },
+      {
+         "event": "Special Weather Statement",
+         "issued": "2020-03-12T14:59:00-05:00",
+         "expires": "2020-03-12T17:00:00-05:00",
+         "counties affected": "Wayne; Stoddard; Perry; McCracken; Graves; Mississippi; Alexander; Ripley; Massac; Union; Ballard; Carter; Pulaski; Butler; Scott; Johnson; Fulton; New Madrid; Cape Girardeau; Bollinger; Carlisle; Hickman",
+         "description": "Scattered thunderstorms will likely develop along a cold front by 4 or 5 PM across southeast Missouri, with the activity moving east, southeast into far southern Illinois and fr west Kentucky through the early evening hours.  Any of the storms along the front may become severe. All hazards will be possible, including tornadoes, large hail and damaging winds. Continue to monitor the weather closely, and be prepared to implement your plan of action should a warning be issued for your location. Do not wait until you see a tornado, high winds or hail to take shelter."
+      },
+      {
+         "event": "Flood Advisory",
+         "issued": "2020-03-12T13:46:00-05:00",
+         "expires": "2020-03-12T16:45:00-05:00",
+         "counties affected": "Jefferson, IL; Wayne, IL; Jackson, IL; Franklin, IL; Hamilton, IL; Perry, MO; Perry, IL; Williamson, IL",
+         "description": "The National Weather Service in Paducah has issued a  * Urban and Small Stream Flood Advisory for... Perry County in south central Illinois... Southwestern Wayne County in south central Illinois... Southern Jefferson County in south central Illinois... Williamson County in southern Illinois... Jackson County in southern Illinois... Franklin County in south central Illinois... Hamilton County in south central Illinois... East central Perry County in southeastern Missouri...  * Until 445 PM CDT.  * At 143 PM CDT, trained weather spotters reported heavy rain in Perry County due to a line of thunderstorms. This will cause urban and small stream flooding. Up to one inch of rain has already fallen. These storms will produce extremely heavy rain as they move southeast through parts of Illinois. Expect very low visibilities, standing water on roadways and quickly filling ditches.  * Some locations that will experience flooding include... Carbondale, Marion, Herrin, West Frankfort, Murphysboro, Benton, Du Quoin, Pinckneyville, Carterville, Johnston City, Mcleansboro, Christopher, Rend Lake Area, Sesser, Zeigler, De Soto, Crainville, Cambria, Royalton and Energy."
+      },
+      {
+         "event": "Flood Advisory",
+         "issued": "2020-03-12T12:11:00-05:00",
+         "expires": "2020-03-13T12:10:00-05:00",
+         "counties affected": "New Madrid, MO; Pemiscot, MO; Lake, TN",
+         "description": "...The National Weather Service in Memphis TN has issued a Flood Advisory for the Mississippi River...  Mississippi River at Tiptonville affecting New Madrid...Pemiscot and Lake Counties Mississippi River at Tunica Riverpark affecting Lee and Tunica Counties  The National Weather Service in Memphis TN has issued a * Flood Advisory for the Mississippi River at Tiptonville * from Thursday March 12 until Tuesday March 24. * At 11 AM Thursday the stage was 32.0 feet. * Flood stage is 37.0 feet. * Forecast...The river will rise to near 35.5 feet Sunday March 22. * At 36.0 feet...In Missouri, Most fields around Robinson Lake in Pemiscot County are covered by flood water."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T12:07:00-05:00",
+         "expires": "2020-03-13T16:06:00-05:00",
+         "counties affected": "Mississippi, MO; Fulton, KY; Hickman, KY; Alexander, IL; Carlisle, KY; Ballard, KY; Pulaski, IL",
+         "description": "...The flood warning continues for the following rivers in Illinois...Kentucky...Missouri...  Ohio River at Olmsted Lock and Dam affecting Pulaski and Ballard Counties Ohio River at Cairo affecting Alexander...Pulaski...Ballard... Carlisle...Fulton...Hickman and Mississippi Counties  .River levels have been fairly steady, and due to expected heavy rainfall, river levels are forecast to slowly rise over the next few days.  The Flood Warning continues for the Ohio River at Cairo. * until further notice. * At 11:00 AM Thursday the stage was 41.0 feet. * Flood Stage is 40.0 feet. * Minor flooding is occurring and Minor flooding is forecast. * Forecast...The river will continue rising to near 45.0 feet by Saturday morning then begin falling."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T12:05:00-05:00",
+         "expires": "2020-03-13T12:05:00-05:00",
+         "counties affected": "Lauderdale, TN; Dyer, TN; Pemiscot, MO; Lake, TN; Mississippi, AR",
+         "description": "...The National Weather Service has issued a Flood Warning for the Mississippi River...  The National Weather Service in Memphis TN has issued a  * Flood Warning for the Mississippi River at Caruthersville * from Thursday March 19 until Tuesday March 24. * At 11 AM Thursday the stage was...29.9 feet. * Minor flooding is forecast. * Maximum forecast stage of 33.5 feet on Monday March 23. * Flood stage is 32.0 feet. * Forecast to rise above flood stage by Thursday March 19 and continue to rise to near 33.5 feet by Monday March 23. The river will fall below flood stage by Tuesday March 24. * At 34.0 feet...In Tennessee, Barr Road along the Middle Fork of the Forked Deer River is flooding near the bridge at the south end of Watkins Road. Water from the north bottom of Lauderdale County is now flowing over the basin boundary into the south bottomm of Lauderdale County. In Missouri, large business just north of Caruthersville is beginning to flood. Many fields adjacent to the Interstate 155 bridge are flooded."
+      },
+      {
+         "event": "Tornado Watch",
+         "issued": "2020-03-12T11:46:00-05:00",
+         "expires": "2020-03-12T17:00:00-05:00",
+         "counties affected": "Jefferson, IL; Daviess, KY; Mississippi, MO; Wayne, IL; Henderson, KY; Carlisle, KY; Hamilton, IL; Johnson, IL; Scott, MO; Fulton, KY; Muhlenberg, KY; Lyon, KY; Hardin, IL; Crittenden, KY; Todd, KY; Williamson, IL; Calloway, KY; Graves, KY; Webster, KY; Stoddard, MO; Alexander, IL; Spencer, IN; Warrick, IN; New Madrid, MO; Hickman, KY; Trigg, KY; Livingston, KY; Pulaski, IL; Caldwell, KY; White, IL; Cape Girardeau, MO; Saline, IL; Perry, MO; McCracken, KY; Marshall, KY; Ballard, KY; Union, IL; Posey, IN; Jackson, IL; Franklin, IL; Union, KY; Perry, IL; Pike, IN; Edwards, IL; Gallatin, IL; McLean, KY; Gibson, IN; Christian, KY; Wabash, IL; Hopkins, KY; Vanderburgh, IN; Pope, IL; Bollinger, MO; Massac, IL",
+         "description": "THE NATIONAL WEATHER SERVICE HAS ISSUED TORNADO WATCH 46 IN EFFECT UNTIL 5 PM CDT THIS AFTERNOON FOR THE FOLLOWING AREAS  IN ILLINOIS THIS WATCH INCLUDES 19 COUNTIES  IN SOUTHEAST ILLINOIS  EDWARDS  IN SOUTHERN ILLINOIS  ALEXANDER             FRANKLIN              GALLATIN HAMILTON              HARDIN                JACKSON JEFFERSON             JOHNSON               MASSAC PERRY                 POPE                  PULASKI SALINE                UNION                 WABASH WAYNE                 WHITE                 WILLIAMSON  IN INDIANA THIS WATCH INCLUDES 6 COUNTIES  IN SOUTHWEST INDIANA  POSEY  IN SOUTHWEST INDIANA  GIBSON                PIKE                  SPENCER VANDERBURGH           WARRICK  IN KENTUCKY THIS WATCH INCLUDES 22 COUNTIES  IN WESTERN KENTUCKY  BALLARD               CALDWELL              CALLOWAY CARLISLE              CHRISTIAN             CRITTENDEN DAVIESS               FULTON                GRAVES HENDERSON             HICKMAN               HOPKINS LIVINGSTON            LYON                  MARSHALL MCCRACKEN             MCLEAN                MUHLENBERG TODD                  TRIGG                 UNION WEBSTER  IN MISSOURI THIS WATCH INCLUDES 7 COUNTIES  IN SOUTHEAST MISSOURI  BOLLINGER             CAPE GIRARDEAU        MISSISSIPPI NEW MADRID            PERRY                 SCOTT STODDARD  THIS INCLUDES THE CITIES OF ALBION, BARDWELL, BENTON, BLOOMFIELD, BOONVILLE, CADIZ, CAIRO, CALHOUN, CAPE GIRARDEAU, CARBONDALE, CARMI, CHARLESTON, CLINTON, DIXON, EDDYVILLE, ELIZABETHTOWN, ELKTON, EVANSVILLE, FAIRFIELD, FORT BRANCH, GOLCONDA, GRAYVILLE, GREENVILLE, HARRISBURG, HENDERSON, HERRIN, HICKMAN, HOPKINSVILLE, JACKSON, JONESBORO, MADISONVILLE, MARBLE HILL, MARION, MAYFIELD, MCLEANSBORO, METROPOLIS, MORGANFIELD, MOUND CITY, MOUNT CARMEL, MOUNT VERNON, MURPHYSBORO, MURRAY, NEW MADRID, OWENSBORO, PADUCAH, PERRYVILLE, PETERSBURG, PINCKNEYVILLE, POSEYVILLE, PRINCETON, ROCKPORT, SHAWNEETOWN, SIKESTON, SMITHLAND, VIENNA, WEST FRANKFORT, WEST SALEM, AND WICKLIFFE."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T11:06:00-05:00",
+         "expires": "2020-03-13T17:04:00-05:00",
+         "counties affected": "Montgomery, MO; Gasconade, MO",
+         "description": "...The flood warning continues for the following river in Missouri...   Missouri River near Chamois  Missouri River at Gasconade  River forecasts are based on observed precipitation and forecast precipitation for the next 48 hours.  The Flood Warning continues for the Missouri River at Gasconade * until Sunday morning. * At  7:00 AM Thursday the stage was estimated at 23.9 feet. * Flood stage is 22.0 feet. * Minor flooding is forecast. * The river is expected to be cresting now and is forecast to fall below flood stage late tonight. * Impact:  At 23.5 feet...The southern end of School House Road south of Rhineland begins flooding near this height."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T11:06:00-05:00",
+         "expires": "2020-03-13T17:04:00-05:00",
+         "counties affected": "Callaway, MO; Osage, MO",
+         "description": "...The flood warning continues for the following river in Missouri...   Missouri River near Chamois  Missouri River at Gasconade  River forecasts are based on observed precipitation and forecast precipitation for the next 48 hours.  The Flood Warning continues for the Missouri River near Chamois * until late Friday night. * At  7:48 AM Thursday the stage was 17.0 feet. * Flood stage is 17.0 feet. * The river is forecast to continue falling to below flood stage this afternoon. * Impact:  At 17.0 feet...Flood Stage:  Lower lying bottom land begins to flood."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T08:21:00-05:00",
+         "expires": "2020-03-12T23:20:00-05:00",
+         "counties affected": "Vernon, MO",
+         "description": "...The Flood Warning continues for the following rivers in Missouri...  Little Osage River near Horton affecting Vernon County Marmaton River near Nevada affecting Vernon County  .Heavy rainfall Wednesday caused river levels to rise above flood stage."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T08:21:00-05:00",
+         "expires": "2020-03-12T23:20:00-05:00",
+         "counties affected": "Vernon, MO",
+         "description": "...The Flood Warning continues for the following rivers in Missouri...  Little Osage River near Horton affecting Vernon County Marmaton River near Nevada affecting Vernon County  .Heavy rainfall Wednesday caused river levels to rise above flood stage."
+      }
+   ],
+   "2020-03-12T17:15:00-05:00": [
+      {
+         "event": "Tornado Warning",
+         "issued": "2020-03-12T17:08:00-05:00",
+         "expires": "2020-03-12T17:30:00-05:00",
+         "counties affected": "Carter, MO; Wayne, MO; Butler, MO",
+         "description": "At 508 PM CDT, a severe thunderstorm capable of producing a tornado was located over Ellsinore, or 15 miles south of Piedmont, moving east at 45 mph.  HAZARD...Tornado and two inch hail.  SOURCE...Radar indicated rotation. At 505 PM, law enforcement reported rotation near Ellsinore.  IMPACT...Flying debris will be dangerous to those caught without shelter. Mobile homes will be damaged or destroyed. Damage to roofs, windows, and vehicles will occur.  Tree damage is likely.  Locations impacted include... Ellsinore, Williamsville, Hunter and Brush Arbor."
+      },
+      {
+         "event": "Tornado Watch",
+         "issued": "2020-03-12T16:59:00-05:00",
+         "expires": "2020-03-12T23:00:00-05:00",
+         "counties affected": "Mississippi, MO; Graves, KY; Stoddard, MO; Cape Girardeau, MO; Alexander, IL; Carlisle, KY; Johnson, IL; Perry, MO; McCracken, KY; Ballard, KY; Carter, MO; New Madrid, MO; Scott, MO; Union, IL; Wayne, MO; Fulton, KY; Hickman, KY; Ripley, MO; Jackson, IL; Butler, MO; Bollinger, MO; Massac, IL; Pulaski, IL",
+         "description": "TORNADO WATCH 47 REMAINS VALID UNTIL 11 PM CDT THIS EVENING FOR THE FOLLOWING AREAS  IN ILLINOIS THIS WATCH INCLUDES 6 COUNTIES  IN SOUTHERN ILLINOIS  ALEXANDER             JACKSON               JOHNSON MASSAC                PULASKI               UNION  IN KENTUCKY THIS WATCH INCLUDES 6 COUNTIES  IN WESTERN KENTUCKY  BALLARD               CARLISLE              FULTON GRAVES                HICKMAN               MCCRACKEN  IN MISSOURI THIS WATCH INCLUDES 11 COUNTIES  IN SOUTHEAST MISSOURI  BOLLINGER             BUTLER                CAPE GIRARDEAU CARTER                MISSISSIPPI           NEW MADRID PERRY                 RIPLEY                SCOTT STODDARD              WAYNE  THIS INCLUDES THE CITIES OF BARDWELL, BLOOMFIELD, CAIRO, CAPE GIRARDEAU, CARBONDALE, CHARLESTON, CLINTON, DONIPHAN, HICKMAN, JACKSON, JONESBORO, MARBLE HILL, MAYFIELD, METROPOLIS, MOUND CITY, MURPHYSBORO, NEW MADRID, PADUCAH, PERRYVILLE, PIEDMONT, POPLAR BLUFF, SIKESTON, VAN BUREN, VIENNA, AND WICKLIFFE."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T16:21:00-05:00",
+         "expires": "2020-03-13T22:21:00-05:00",
+         "counties affected": "Montgomery, MO; Gasconade, MO",
+         "description": "...The National Weather Service in St. Louis has issued a flood warning for the following rivers in Missouri...   Missouri River at Hermann   River forecasts are based on observed precipitation and forecast precipitation for the next 48 hours.  The National Weather Service in St. Louis has issued a  * Flood Warning for the Missouri River at Hermann * until Friday evening. * At  3:30 PM Thursday the stage was 21.2 feet. * Flood stage is 21.0 feet. * The river is forecast to continue to fall to below flood stage by late this afternoon. * Impact:  At 21.0 feet...Minor flooding of cropland begins... particularly just north of the Highway 19 bridge along the Loutre River."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T15:58:00-05:00",
+         "expires": "2020-03-13T06:57:00-05:00",
+         "counties affected": "Vernon, MO",
+         "description": "...The Flood Warning continues for the following rivers in Missouri...  Marmaton River near Nevada affecting Vernon County ...The Flood Warning continues for the following rivers in Missouri...  Little Osage River near Horton affecting Vernon County  .Heavy rainfall Wednesday caused river levels to rise above flood stage."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T15:58:00-05:00",
+         "expires": "2020-03-13T06:57:00-05:00",
+         "counties affected": "Vernon, MO",
+         "description": "...The Flood Warning continues for the following rivers in Missouri...  Marmaton River near Nevada affecting Vernon County ...The Flood Warning continues for the following rivers in Missouri...  Little Osage River near Horton affecting Vernon County  .Heavy rainfall Wednesday caused river levels to rise above flood stage."
+      },
+      {
+         "event": "Tornado Watch",
+         "issued": "2020-03-12T15:47:00-05:00",
+         "expires": "2020-03-12T23:00:00-05:00",
+         "counties affected": "Ste. Genevieve, MO; Reynolds, MO; Madison, MO; Iron, MO; St. Francois, MO",
+         "description": "THE NATIONAL WEATHER SERVICE HAS ISSUED TORNADO WATCH 47 IN EFFECT UNTIL 11 PM CDT THIS EVENING FOR THE FOLLOWING AREAS  IN MISSOURI THIS WATCH INCLUDES 5 COUNTIES  IN SOUTHEAST MISSOURI  IRON MO               MADISON MO            REYNOLDS MO SAINT FRANCOIS MO     SAINTE GENEVIEVE MO  THIS INCLUDES THE CITIES OF FARMINGTON."
+      },
+      {
+         "event": "Tornado Watch",
+         "issued": "2020-03-12T15:46:00-05:00",
+         "expires": "2020-03-12T23:00:00-05:00",
+         "counties affected": "Shannon, MO; Ozark, MO; Howell, MO; Oregon, MO",
+         "description": "THE NATIONAL WEATHER SERVICE HAS ISSUED TORNADO WATCH 47 IN EFFECT UNTIL 11 PM CDT THIS EVENING FOR THE FOLLOWING AREAS  IN MISSOURI THIS WATCH INCLUDES 4 COUNTIES  IN SOUTH CENTRAL MISSOURI  HOWELL                OREGON                SHANNON  IN SOUTHWEST MISSOURI  OZARK  THIS INCLUDES THE CITIES OF ALTON, BIRCH TREE, COUCH, GREER, MONTIER, POMONA, POTTERSVILLE, SILOAM SPRINGS, SOUTH FORK, TERESITA, THAYER, THOMASVILLE, WASOLA, WEST PLAINS, WHITE CHURCK, WILDERNESS, AND WINONA."
+      },
+      {
+         "event": "Tornado Watch",
+         "issued": "2020-03-12T15:44:00-05:00",
+         "expires": "2020-03-12T23:00:00-05:00",
+         "counties affected": "Lauderdale, TN; Craighead, AR; Poinsett, AR; Greene, AR; Dunklin, MO; Mississippi, AR; Cross, AR; Clay, AR",
+         "description": "THE NATIONAL WEATHER SERVICE HAS ISSUED TORNADO WATCH 47 IN EFFECT UNTIL 11 PM CDT THIS EVENING FOR THE FOLLOWING AREAS  IN ARKANSAS THIS WATCH INCLUDES 6 COUNTIES  IN EAST ARKANSAS  CLAY                  CRAIGHEAD             CROSS GREENE                MISSISSIPPI           POINSETT  IN MISSOURI THIS WATCH INCLUDES 1 COUNTY  IN SOUTHEAST MISSOURI  DUNKLIN  IN TENNESSEE THIS WATCH INCLUDES 1 COUNTY  IN WEST TENNESSEE  LAUDERDALE  THIS INCLUDES THE CITIES OF BLYTHEVILLE, CORNING, HARRISBURG, JONESBORO, KENNETT, PARAGOULD, PIGGOTT, RIPLEY TN, AND WYNNE."
+      },
+      {
+         "event": "Tornado Watch",
+         "issued": "2020-03-12T15:44:00-05:00",
+         "expires": "2020-03-12T23:00:00-05:00",
+         "counties affected": "Weakley, TN; Dyer, TN; Obion, TN; Pemiscot, MO; Lake, TN; Gibson, TN",
+         "description": "THE NATIONAL WEATHER SERVICE HAS ISSUED TORNADO WATCH 47 UNTIL 11 PM CDT THIS EVENING WHICH REPLACES A PORTION OF TORNADO WATCH 46. THE NEW WATCH IS VALID FOR THE FOLLOWING AREAS  IN MISSOURI THE NEW WATCH INCLUDES 1 COUNTY  IN SOUTHEAST MISSOURI  PEMISCOT  IN TENNESSEE THE NEW WATCH INCLUDES 5 COUNTIES  IN WEST TENNESSEE  DYER                  GIBSON                LAKE OBION                 WEAKLEY  THIS INCLUDES THE CITIES OF CARUTHERSVILLE, DRESDEN, DYERSBURG, HUMBOLDT, MARTIN, MILAN, TIPTONVILLE, AND UNION CITY."
+      },
+      {
+         "event": "Flood Advisory",
+         "issued": "2020-03-12T12:11:00-05:00",
+         "expires": "2020-03-13T12:10:00-05:00",
+         "counties affected": "New Madrid, MO; Pemiscot, MO; Lake, TN",
+         "description": "...The National Weather Service in Memphis TN has issued a Flood Advisory for the Mississippi River...  Mississippi River at Tiptonville affecting New Madrid...Pemiscot and Lake Counties Mississippi River at Tunica Riverpark affecting Lee and Tunica Counties  The National Weather Service in Memphis TN has issued a * Flood Advisory for the Mississippi River at Tiptonville * from Thursday March 12 until Tuesday March 24. * At 11 AM Thursday the stage was 32.0 feet. * Flood stage is 37.0 feet. * Forecast...The river will rise to near 35.5 feet Sunday March 22. * At 36.0 feet...In Missouri, Most fields around Robinson Lake in Pemiscot County are covered by flood water."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T12:07:00-05:00",
+         "expires": "2020-03-13T16:06:00-05:00",
+         "counties affected": "Mississippi, MO; Fulton, KY; Hickman, KY; Alexander, IL; Carlisle, KY; Ballard, KY; Pulaski, IL",
+         "description": "...The flood warning continues for the following rivers in Illinois...Kentucky...Missouri...  Ohio River at Olmsted Lock and Dam affecting Pulaski and Ballard Counties Ohio River at Cairo affecting Alexander...Pulaski...Ballard... Carlisle...Fulton...Hickman and Mississippi Counties  .River levels have been fairly steady, and due to expected heavy rainfall, river levels are forecast to slowly rise over the next few days.  The Flood Warning continues for the Ohio River at Cairo. * until further notice. * At 11:00 AM Thursday the stage was 41.0 feet. * Flood Stage is 40.0 feet. * Minor flooding is occurring and Minor flooding is forecast. * Forecast...The river will continue rising to near 45.0 feet by Saturday morning then begin falling."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T12:05:00-05:00",
+         "expires": "2020-03-13T12:05:00-05:00",
+         "counties affected": "Lauderdale, TN; Dyer, TN; Pemiscot, MO; Lake, TN; Mississippi, AR",
+         "description": "...The National Weather Service has issued a Flood Warning for the Mississippi River...  The National Weather Service in Memphis TN has issued a  * Flood Warning for the Mississippi River at Caruthersville * from Thursday March 19 until Tuesday March 24. * At 11 AM Thursday the stage was...29.9 feet. * Minor flooding is forecast. * Maximum forecast stage of 33.5 feet on Monday March 23. * Flood stage is 32.0 feet. * Forecast to rise above flood stage by Thursday March 19 and continue to rise to near 33.5 feet by Monday March 23. The river will fall below flood stage by Tuesday March 24. * At 34.0 feet...In Tennessee, Barr Road along the Middle Fork of the Forked Deer River is flooding near the bridge at the south end of Watkins Road. Water from the north bottom of Lauderdale County is now flowing over the basin boundary into the south bottomm of Lauderdale County. In Missouri, large business just north of Caruthersville is beginning to flood. Many fields adjacent to the Interstate 155 bridge are flooded."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T11:06:00-05:00",
+         "expires": "2020-03-13T17:04:00-05:00",
+         "counties affected": "Montgomery, MO; Gasconade, MO",
+         "description": "...The flood warning continues for the following river in Missouri...   Missouri River near Chamois  Missouri River at Gasconade  River forecasts are based on observed precipitation and forecast precipitation for the next 48 hours.  The Flood Warning continues for the Missouri River at Gasconade * until Sunday morning. * At  7:00 AM Thursday the stage was estimated at 23.9 feet. * Flood stage is 22.0 feet. * Minor flooding is forecast. * The river is expected to be cresting now and is forecast to fall below flood stage late tonight. * Impact:  At 23.5 feet...The southern end of School House Road south of Rhineland begins flooding near this height."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T11:06:00-05:00",
+         "expires": "2020-03-13T17:04:00-05:00",
+         "counties affected": "Callaway, MO; Osage, MO",
+         "description": "...The flood warning continues for the following river in Missouri...   Missouri River near Chamois  Missouri River at Gasconade  River forecasts are based on observed precipitation and forecast precipitation for the next 48 hours.  The Flood Warning continues for the Missouri River near Chamois * until late Friday night. * At  7:48 AM Thursday the stage was 17.0 feet. * Flood stage is 17.0 feet. * The river is forecast to continue falling to below flood stage this afternoon. * Impact:  At 17.0 feet...Flood Stage:  Lower lying bottom land begins to flood."
+      }
+   ],
+   "2020-03-12T17:30:00-05:00": [
+      {
+         "event": "Tornado Watch",
+         "issued": "2020-03-12T17:21:00-05:00",
+         "expires": "2020-03-12T23:00:00-05:00",
+         "counties affected": "Lauderdale, TN; Craighead, AR; Weakley, TN; Poinsett, AR; Dyer, TN; Obion, TN; Greene, AR; Pemiscot, MO; Lake, TN; Dunklin, MO; Gibson, TN; Mississippi, AR; Cross, AR; Clay, AR",
+         "description": "TORNADO WATCH 47 REMAINS VALID UNTIL 11 PM CDT THIS EVENING FOR THE FOLLOWING AREAS  IN ARKANSAS THIS WATCH INCLUDES 6 COUNTIES  IN EAST ARKANSAS  CLAY                  CRAIGHEAD             CROSS GREENE                MISSISSIPPI           POINSETT  IN MISSOURI THIS WATCH INCLUDES 2 COUNTIES  IN SOUTHEAST MISSOURI  DUNKLIN               PEMISCOT  IN TENNESSEE THIS WATCH INCLUDES 6 COUNTIES  IN WEST TENNESSEE  DYER                  GIBSON                LAKE LAUDERDALE            OBION                 WEAKLEY  THIS INCLUDES THE CITIES OF BLYTHEVILLE, CARUTHERSVILLE, CORNING, DRESDEN, DYERSBURG, HARRISBURG, HUMBOLDT, JONESBORO, KENNETT, MARTIN, MILAN, PARAGOULD, PIGGOTT, RIPLEY TN, TIPTONVILLE, UNION CITY, AND WYNNE."
+      },
+      {
+         "event": "Tornado Warning",
+         "issued": "2020-03-12T17:19:00-05:00",
+         "expires": "2020-03-12T17:45:00-05:00",
+         "counties affected": "Wayne, MO; Butler, MO",
+         "description": "The National Weather Service in Paducah has issued a  * Tornado Warning for... South central Wayne County in southeastern Missouri... Northern Butler County in southeastern Missouri...  * Until 545 PM CDT.  * At 518 PM CDT, a severe thunderstorm capable of producing a tornado was located near Brush Arbor, or 13 miles northwest of Poplar Bluff, moving east at 50 mph.  HAZARD...Tornado and hail up to two inches in diameter. This storm has a history of large hail. A wall cloud has been observed with this storm as well.  SOURCE...Radar indicated rotation.  IMPACT...Flying debris will be dangerous to those caught without shelter. Mobile homes will be damaged or destroyed. Damage to roofs, windows, and vehicles will occur.  Tree damage is likely.  * Locations impacted include... North side of Poplar Bluff, Lake Wappapello State Park, Williamsville, Fisk, Hendrickson, Wappapello and Rombauer."
+      },
+      {
+         "event": "Tornado Watch",
+         "issued": "2020-03-12T16:59:00-05:00",
+         "expires": "2020-03-12T23:00:00-05:00",
+         "counties affected": "Mississippi, MO; Graves, KY; Stoddard, MO; Cape Girardeau, MO; Alexander, IL; Carlisle, KY; Johnson, IL; Perry, MO; McCracken, KY; Ballard, KY; Carter, MO; New Madrid, MO; Scott, MO; Union, IL; Wayne, MO; Fulton, KY; Hickman, KY; Ripley, MO; Jackson, IL; Butler, MO; Bollinger, MO; Massac, IL; Pulaski, IL",
+         "description": "TORNADO WATCH 47 REMAINS VALID UNTIL 11 PM CDT THIS EVENING FOR THE FOLLOWING AREAS  IN ILLINOIS THIS WATCH INCLUDES 6 COUNTIES  IN SOUTHERN ILLINOIS  ALEXANDER             JACKSON               JOHNSON MASSAC                PULASKI               UNION  IN KENTUCKY THIS WATCH INCLUDES 6 COUNTIES  IN WESTERN KENTUCKY  BALLARD               CARLISLE              FULTON GRAVES                HICKMAN               MCCRACKEN  IN MISSOURI THIS WATCH INCLUDES 11 COUNTIES  IN SOUTHEAST MISSOURI  BOLLINGER             BUTLER                CAPE GIRARDEAU CARTER                MISSISSIPPI           NEW MADRID PERRY                 RIPLEY                SCOTT STODDARD              WAYNE  THIS INCLUDES THE CITIES OF BARDWELL, BLOOMFIELD, CAIRO, CAPE GIRARDEAU, CARBONDALE, CHARLESTON, CLINTON, DONIPHAN, HICKMAN, JACKSON, JONESBORO, MARBLE HILL, MAYFIELD, METROPOLIS, MOUND CITY, MURPHYSBORO, NEW MADRID, PADUCAH, PERRYVILLE, PIEDMONT, POPLAR BLUFF, SIKESTON, VAN BUREN, VIENNA, AND WICKLIFFE."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T16:21:00-05:00",
+         "expires": "2020-03-13T22:21:00-05:00",
+         "counties affected": "Montgomery, MO; Gasconade, MO",
+         "description": "...The National Weather Service in St. Louis has issued a flood warning for the following rivers in Missouri...   Missouri River at Hermann   River forecasts are based on observed precipitation and forecast precipitation for the next 48 hours.  The National Weather Service in St. Louis has issued a  * Flood Warning for the Missouri River at Hermann * until Friday evening. * At  3:30 PM Thursday the stage was 21.2 feet. * Flood stage is 21.0 feet. * The river is forecast to continue to fall to below flood stage by late this afternoon. * Impact:  At 21.0 feet...Minor flooding of cropland begins... particularly just north of the Highway 19 bridge along the Loutre River."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T15:58:00-05:00",
+         "expires": "2020-03-13T06:57:00-05:00",
+         "counties affected": "Vernon, MO",
+         "description": "...The Flood Warning continues for the following rivers in Missouri...  Marmaton River near Nevada affecting Vernon County ...The Flood Warning continues for the following rivers in Missouri...  Little Osage River near Horton affecting Vernon County  .Heavy rainfall Wednesday caused river levels to rise above flood stage."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T15:58:00-05:00",
+         "expires": "2020-03-13T06:57:00-05:00",
+         "counties affected": "Vernon, MO",
+         "description": "...The Flood Warning continues for the following rivers in Missouri...  Marmaton River near Nevada affecting Vernon County ...The Flood Warning continues for the following rivers in Missouri...  Little Osage River near Horton affecting Vernon County  .Heavy rainfall Wednesday caused river levels to rise above flood stage."
+      },
+      {
+         "event": "Tornado Watch",
+         "issued": "2020-03-12T15:47:00-05:00",
+         "expires": "2020-03-12T23:00:00-05:00",
+         "counties affected": "Ste. Genevieve, MO; Reynolds, MO; Madison, MO; Iron, MO; St. Francois, MO",
+         "description": "THE NATIONAL WEATHER SERVICE HAS ISSUED TORNADO WATCH 47 IN EFFECT UNTIL 11 PM CDT THIS EVENING FOR THE FOLLOWING AREAS  IN MISSOURI THIS WATCH INCLUDES 5 COUNTIES  IN SOUTHEAST MISSOURI  IRON MO               MADISON MO            REYNOLDS MO SAINT FRANCOIS MO     SAINTE GENEVIEVE MO  THIS INCLUDES THE CITIES OF FARMINGTON."
+      },
+      {
+         "event": "Tornado Watch",
+         "issued": "2020-03-12T15:46:00-05:00",
+         "expires": "2020-03-12T23:00:00-05:00",
+         "counties affected": "Shannon, MO; Ozark, MO; Howell, MO; Oregon, MO",
+         "description": "THE NATIONAL WEATHER SERVICE HAS ISSUED TORNADO WATCH 47 IN EFFECT UNTIL 11 PM CDT THIS EVENING FOR THE FOLLOWING AREAS  IN MISSOURI THIS WATCH INCLUDES 4 COUNTIES  IN SOUTH CENTRAL MISSOURI  HOWELL                OREGON                SHANNON  IN SOUTHWEST MISSOURI  OZARK  THIS INCLUDES THE CITIES OF ALTON, BIRCH TREE, COUCH, GREER, MONTIER, POMONA, POTTERSVILLE, SILOAM SPRINGS, SOUTH FORK, TERESITA, THAYER, THOMASVILLE, WASOLA, WEST PLAINS, WHITE CHURCK, WILDERNESS, AND WINONA."
+      },
+      {
+         "event": "Flood Advisory",
+         "issued": "2020-03-12T12:11:00-05:00",
+         "expires": "2020-03-13T12:10:00-05:00",
+         "counties affected": "New Madrid, MO; Pemiscot, MO; Lake, TN",
+         "description": "...The National Weather Service in Memphis TN has issued a Flood Advisory for the Mississippi River...  Mississippi River at Tiptonville affecting New Madrid...Pemiscot and Lake Counties Mississippi River at Tunica Riverpark affecting Lee and Tunica Counties  The National Weather Service in Memphis TN has issued a * Flood Advisory for the Mississippi River at Tiptonville * from Thursday March 12 until Tuesday March 24. * At 11 AM Thursday the stage was 32.0 feet. * Flood stage is 37.0 feet. * Forecast...The river will rise to near 35.5 feet Sunday March 22. * At 36.0 feet...In Missouri, Most fields around Robinson Lake in Pemiscot County are covered by flood water."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T12:07:00-05:00",
+         "expires": "2020-03-13T16:06:00-05:00",
+         "counties affected": "Mississippi, MO; Fulton, KY; Hickman, KY; Alexander, IL; Carlisle, KY; Ballard, KY; Pulaski, IL",
+         "description": "...The flood warning continues for the following rivers in Illinois...Kentucky...Missouri...  Ohio River at Olmsted Lock and Dam affecting Pulaski and Ballard Counties Ohio River at Cairo affecting Alexander...Pulaski...Ballard... Carlisle...Fulton...Hickman and Mississippi Counties  .River levels have been fairly steady, and due to expected heavy rainfall, river levels are forecast to slowly rise over the next few days.  The Flood Warning continues for the Ohio River at Cairo. * until further notice. * At 11:00 AM Thursday the stage was 41.0 feet. * Flood Stage is 40.0 feet. * Minor flooding is occurring and Minor flooding is forecast. * Forecast...The river will continue rising to near 45.0 feet by Saturday morning then begin falling."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T12:05:00-05:00",
+         "expires": "2020-03-13T12:05:00-05:00",
+         "counties affected": "Lauderdale, TN; Dyer, TN; Pemiscot, MO; Lake, TN; Mississippi, AR",
+         "description": "...The National Weather Service has issued a Flood Warning for the Mississippi River...  The National Weather Service in Memphis TN has issued a  * Flood Warning for the Mississippi River at Caruthersville * from Thursday March 19 until Tuesday March 24. * At 11 AM Thursday the stage was...29.9 feet. * Minor flooding is forecast. * Maximum forecast stage of 33.5 feet on Monday March 23. * Flood stage is 32.0 feet. * Forecast to rise above flood stage by Thursday March 19 and continue to rise to near 33.5 feet by Monday March 23. The river will fall below flood stage by Tuesday March 24. * At 34.0 feet...In Tennessee, Barr Road along the Middle Fork of the Forked Deer River is flooding near the bridge at the south end of Watkins Road. Water from the north bottom of Lauderdale County is now flowing over the basin boundary into the south bottomm of Lauderdale County. In Missouri, large business just north of Caruthersville is beginning to flood. Many fields adjacent to the Interstate 155 bridge are flooded."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T11:06:00-05:00",
+         "expires": "2020-03-13T17:04:00-05:00",
+         "counties affected": "Montgomery, MO; Gasconade, MO",
+         "description": "...The flood warning continues for the following river in Missouri...   Missouri River near Chamois  Missouri River at Gasconade  River forecasts are based on observed precipitation and forecast precipitation for the next 48 hours.  The Flood Warning continues for the Missouri River at Gasconade * until Sunday morning. * At  7:00 AM Thursday the stage was estimated at 23.9 feet. * Flood stage is 22.0 feet. * Minor flooding is forecast. * The river is expected to be cresting now and is forecast to fall below flood stage late tonight. * Impact:  At 23.5 feet...The southern end of School House Road south of Rhineland begins flooding near this height."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T11:06:00-05:00",
+         "expires": "2020-03-13T17:04:00-05:00",
+         "counties affected": "Callaway, MO; Osage, MO",
+         "description": "...The flood warning continues for the following river in Missouri...   Missouri River near Chamois  Missouri River at Gasconade  River forecasts are based on observed precipitation and forecast precipitation for the next 48 hours.  The Flood Warning continues for the Missouri River near Chamois * until late Friday night. * At  7:48 AM Thursday the stage was 17.0 feet. * Flood stage is 17.0 feet. * The river is forecast to continue falling to below flood stage this afternoon. * Impact:  At 17.0 feet...Flood Stage:  Lower lying bottom land begins to flood."
+      }
+   ],
+   "2020-03-12T22:36:49+00:00": [
+      {
+         "event": "Tornado Warning",
+         "issued": "2020-03-12T17:36:00-05:00",
+         "expires": "2020-03-12T18:15:00-05:00",
+         "counties affected": "Butler, MO",
+         "description": "The National Weather Service in Paducah has issued a  * Tornado Warning for... Central Butler County in southeastern Missouri...  * Until 615 PM CDT.  * At 536 PM CDT, a confirmed large and extremely dangerous tornado was located near Poplar Bluff, moving east at 50 mph.  This is a PARTICULARLY DANGEROUS SITUATION. TAKE COVER NOW!  HAZARD...Damaging tornado.  SOURCE...Law enforcement confirmed tornado.  IMPACT...You are in a life-threatening situation. Flying debris may be deadly to those caught without shelter. Mobile homes will be destroyed. Considerable damage to homes, businesses, and vehicles is likely and complete destruction is possible.  * The tornado will be near... Fisk around 550 PM CDT."
+      },
+      {
+         "event": "Tornado Warning",
+         "issued": "2020-03-12T17:34:00-05:00",
+         "expires": "2020-03-12T17:45:00-05:00",
+         "counties affected": "Butler, MO",
+         "description": "At 534 PM CDT, a confirmed large and extremely dangerous tornado was located near Poplar Bluff, moving east at 50 mph.  This is a PARTICULARLY DANGEROUS SITUATION. TAKE COVER NOW!  HAZARD...Damaging tornado.  SOURCE...Law enforcement confirmed tornado. The tornado was reported approaching the northwest side of Poplar Bluff near Highway 67.  IMPACT...You are in a life-threatening situation. Flying debris may be deadly to those caught without shelter. Mobile homes will be destroyed. Considerable damage to homes, businesses, and vehicles is likely and complete destruction is possible.  Locations impacted include... Poplar Bluff, Fisk, Hendrickson and Rombauer."
+      },
+      {
+         "event": "Special Weather Statement",
+         "issued": "2020-03-12T17:30:00-05:00",
+         "expires": "2020-03-12T17:45:00-05:00",
+         "counties affected": "Oregon",
+         "description": "At 529 PM CDT, Doppler radar was tracking a strong thunderstorm near Dalton, or 15 miles east of Mammoth Spring, moving east at 55 mph.  Nickel size hail and wind gusts up to 50 mph will be possible with this storm.  Locations impacted include... Myrtle...  A Tornado Watch remains in effect until 1100 PM CDT for south central Missouri."
+      },
+      {
+         "event": "Severe Thunderstorm Warning",
+         "issued": "2020-03-12T17:29:00-05:00",
+         "expires": "2020-03-12T18:15:00-05:00",
+         "counties affected": "Carter, MO",
+         "description": "The National Weather Service in Paducah has issued a  * Severe Thunderstorm Warning for... Central Carter County in southeastern Missouri...  * Until 615 PM CDT.  * At 529 PM CDT, a severe thunderstorm was located near Van Buren, moving east at 45 mph.  HAZARD...60 mph wind gusts and quarter size hail.  SOURCE...Radar indicated.  IMPACT...Hail damage to vehicles is expected. Expect wind damage to roofs, siding, and trees.  * Locations impacted include... Van Buren, Ellsinore, Hunter and Fremont."
+      },
+      {
+         "event": "Tornado Watch",
+         "issued": "2020-03-12T17:21:00-05:00",
+         "expires": "2020-03-12T23:00:00-05:00",
+         "counties affected": "Lauderdale, TN; Craighead, AR; Weakley, TN; Poinsett, AR; Dyer, TN; Obion, TN; Greene, AR; Pemiscot, MO; Lake, TN; Dunklin, MO; Gibson, TN; Mississippi, AR; Cross, AR; Clay, AR",
+         "description": "TORNADO WATCH 47 REMAINS VALID UNTIL 11 PM CDT THIS EVENING FOR THE FOLLOWING AREAS  IN ARKANSAS THIS WATCH INCLUDES 6 COUNTIES  IN EAST ARKANSAS  CLAY                  CRAIGHEAD             CROSS GREENE                MISSISSIPPI           POINSETT  IN MISSOURI THIS WATCH INCLUDES 2 COUNTIES  IN SOUTHEAST MISSOURI  DUNKLIN               PEMISCOT  IN TENNESSEE THIS WATCH INCLUDES 6 COUNTIES  IN WEST TENNESSEE  DYER                  GIBSON                LAKE LAUDERDALE            OBION                 WEAKLEY  THIS INCLUDES THE CITIES OF BLYTHEVILLE, CARUTHERSVILLE, CORNING, DRESDEN, DYERSBURG, HARRISBURG, HUMBOLDT, JONESBORO, KENNETT, MARTIN, MILAN, PARAGOULD, PIGGOTT, RIPLEY TN, TIPTONVILLE, UNION CITY, AND WYNNE."
+      },
+      {
+         "event": "Tornado Watch",
+         "issued": "2020-03-12T16:59:00-05:00",
+         "expires": "2020-03-12T23:00:00-05:00",
+         "counties affected": "Mississippi, MO; Graves, KY; Stoddard, MO; Cape Girardeau, MO; Alexander, IL; Carlisle, KY; Johnson, IL; Perry, MO; McCracken, KY; Ballard, KY; Carter, MO; New Madrid, MO; Scott, MO; Union, IL; Wayne, MO; Fulton, KY; Hickman, KY; Ripley, MO; Jackson, IL; Butler, MO; Bollinger, MO; Massac, IL; Pulaski, IL",
+         "description": "TORNADO WATCH 47 REMAINS VALID UNTIL 11 PM CDT THIS EVENING FOR THE FOLLOWING AREAS  IN ILLINOIS THIS WATCH INCLUDES 6 COUNTIES  IN SOUTHERN ILLINOIS  ALEXANDER             JACKSON               JOHNSON MASSAC                PULASKI               UNION  IN KENTUCKY THIS WATCH INCLUDES 6 COUNTIES  IN WESTERN KENTUCKY  BALLARD               CARLISLE              FULTON GRAVES                HICKMAN               MCCRACKEN  IN MISSOURI THIS WATCH INCLUDES 11 COUNTIES  IN SOUTHEAST MISSOURI  BOLLINGER             BUTLER                CAPE GIRARDEAU CARTER                MISSISSIPPI           NEW MADRID PERRY                 RIPLEY                SCOTT STODDARD              WAYNE  THIS INCLUDES THE CITIES OF BARDWELL, BLOOMFIELD, CAIRO, CAPE GIRARDEAU, CARBONDALE, CHARLESTON, CLINTON, DONIPHAN, HICKMAN, JACKSON, JONESBORO, MARBLE HILL, MAYFIELD, METROPOLIS, MOUND CITY, MURPHYSBORO, NEW MADRID, PADUCAH, PERRYVILLE, PIEDMONT, POPLAR BLUFF, SIKESTON, VAN BUREN, VIENNA, AND WICKLIFFE."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T16:21:00-05:00",
+         "expires": "2020-03-13T22:21:00-05:00",
+         "counties affected": "Montgomery, MO; Gasconade, MO",
+         "description": "...The National Weather Service in St. Louis has issued a flood warning for the following rivers in Missouri...   Missouri River at Hermann   River forecasts are based on observed precipitation and forecast precipitation for the next 48 hours.  The National Weather Service in St. Louis has issued a  * Flood Warning for the Missouri River at Hermann * until Friday evening. * At  3:30 PM Thursday the stage was 21.2 feet. * Flood stage is 21.0 feet. * The river is forecast to continue to fall to below flood stage by late this afternoon. * Impact:  At 21.0 feet...Minor flooding of cropland begins... particularly just north of the Highway 19 bridge along the Loutre River."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T15:58:00-05:00",
+         "expires": "2020-03-13T06:57:00-05:00",
+         "counties affected": "Vernon, MO",
+         "description": "...The Flood Warning continues for the following rivers in Missouri...  Marmaton River near Nevada affecting Vernon County ...The Flood Warning continues for the following rivers in Missouri...  Little Osage River near Horton affecting Vernon County  .Heavy rainfall Wednesday caused river levels to rise above flood stage."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T15:58:00-05:00",
+         "expires": "2020-03-13T06:57:00-05:00",
+         "counties affected": "Vernon, MO",
+         "description": "...The Flood Warning continues for the following rivers in Missouri...  Marmaton River near Nevada affecting Vernon County ...The Flood Warning continues for the following rivers in Missouri...  Little Osage River near Horton affecting Vernon County  .Heavy rainfall Wednesday caused river levels to rise above flood stage."
+      },
+      {
+         "event": "Tornado Watch",
+         "issued": "2020-03-12T15:47:00-05:00",
+         "expires": "2020-03-12T23:00:00-05:00",
+         "counties affected": "Ste. Genevieve, MO; Reynolds, MO; Madison, MO; Iron, MO; St. Francois, MO",
+         "description": "THE NATIONAL WEATHER SERVICE HAS ISSUED TORNADO WATCH 47 IN EFFECT UNTIL 11 PM CDT THIS EVENING FOR THE FOLLOWING AREAS  IN MISSOURI THIS WATCH INCLUDES 5 COUNTIES  IN SOUTHEAST MISSOURI  IRON MO               MADISON MO            REYNOLDS MO SAINT FRANCOIS MO     SAINTE GENEVIEVE MO  THIS INCLUDES THE CITIES OF FARMINGTON."
+      },
+      {
+         "event": "Tornado Watch",
+         "issued": "2020-03-12T15:46:00-05:00",
+         "expires": "2020-03-12T23:00:00-05:00",
+         "counties affected": "Shannon, MO; Ozark, MO; Howell, MO; Oregon, MO",
+         "description": "THE NATIONAL WEATHER SERVICE HAS ISSUED TORNADO WATCH 47 IN EFFECT UNTIL 11 PM CDT THIS EVENING FOR THE FOLLOWING AREAS  IN MISSOURI THIS WATCH INCLUDES 4 COUNTIES  IN SOUTH CENTRAL MISSOURI  HOWELL                OREGON                SHANNON  IN SOUTHWEST MISSOURI  OZARK  THIS INCLUDES THE CITIES OF ALTON, BIRCH TREE, COUCH, GREER, MONTIER, POMONA, POTTERSVILLE, SILOAM SPRINGS, SOUTH FORK, TERESITA, THAYER, THOMASVILLE, WASOLA, WEST PLAINS, WHITE CHURCK, WILDERNESS, AND WINONA."
+      },
+      {
+         "event": "Flood Advisory",
+         "issued": "2020-03-12T12:11:00-05:00",
+         "expires": "2020-03-13T12:10:00-05:00",
+         "counties affected": "New Madrid, MO; Pemiscot, MO; Lake, TN",
+         "description": "...The National Weather Service in Memphis TN has issued a Flood Advisory for the Mississippi River...  Mississippi River at Tiptonville affecting New Madrid...Pemiscot and Lake Counties Mississippi River at Tunica Riverpark affecting Lee and Tunica Counties  The National Weather Service in Memphis TN has issued a * Flood Advisory for the Mississippi River at Tiptonville * from Thursday March 12 until Tuesday March 24. * At 11 AM Thursday the stage was 32.0 feet. * Flood stage is 37.0 feet. * Forecast...The river will rise to near 35.5 feet Sunday March 22. * At 36.0 feet...In Missouri, Most fields around Robinson Lake in Pemiscot County are covered by flood water."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T12:07:00-05:00",
+         "expires": "2020-03-13T16:06:00-05:00",
+         "counties affected": "Mississippi, MO; Fulton, KY; Hickman, KY; Alexander, IL; Carlisle, KY; Ballard, KY; Pulaski, IL",
+         "description": "...The flood warning continues for the following rivers in Illinois...Kentucky...Missouri...  Ohio River at Olmsted Lock and Dam affecting Pulaski and Ballard Counties Ohio River at Cairo affecting Alexander...Pulaski...Ballard... Carlisle...Fulton...Hickman and Mississippi Counties  .River levels have been fairly steady, and due to expected heavy rainfall, river levels are forecast to slowly rise over the next few days.  The Flood Warning continues for the Ohio River at Cairo. * until further notice. * At 11:00 AM Thursday the stage was 41.0 feet. * Flood Stage is 40.0 feet. * Minor flooding is occurring and Minor flooding is forecast. * Forecast...The river will continue rising to near 45.0 feet by Saturday morning then begin falling."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T12:05:00-05:00",
+         "expires": "2020-03-13T12:05:00-05:00",
+         "counties affected": "Lauderdale, TN; Dyer, TN; Pemiscot, MO; Lake, TN; Mississippi, AR",
+         "description": "...The National Weather Service has issued a Flood Warning for the Mississippi River...  The National Weather Service in Memphis TN has issued a  * Flood Warning for the Mississippi River at Caruthersville * from Thursday March 19 until Tuesday March 24. * At 11 AM Thursday the stage was...29.9 feet. * Minor flooding is forecast. * Maximum forecast stage of 33.5 feet on Monday March 23. * Flood stage is 32.0 feet. * Forecast to rise above flood stage by Thursday March 19 and continue to rise to near 33.5 feet by Monday March 23. The river will fall below flood stage by Tuesday March 24. * At 34.0 feet...In Tennessee, Barr Road along the Middle Fork of the Forked Deer River is flooding near the bridge at the south end of Watkins Road. Water from the north bottom of Lauderdale County is now flowing over the basin boundary into the south bottomm of Lauderdale County. In Missouri, large business just north of Caruthersville is beginning to flood. Many fields adjacent to the Interstate 155 bridge are flooded."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T11:06:00-05:00",
+         "expires": "2020-03-13T17:04:00-05:00",
+         "counties affected": "Montgomery, MO; Gasconade, MO",
+         "description": "...The flood warning continues for the following river in Missouri...   Missouri River near Chamois  Missouri River at Gasconade  River forecasts are based on observed precipitation and forecast precipitation for the next 48 hours.  The Flood Warning continues for the Missouri River at Gasconade * until Sunday morning. * At  7:00 AM Thursday the stage was estimated at 23.9 feet. * Flood stage is 22.0 feet. * Minor flooding is forecast. * The river is expected to be cresting now and is forecast to fall below flood stage late tonight. * Impact:  At 23.5 feet...The southern end of School House Road south of Rhineland begins flooding near this height."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T11:06:00-05:00",
+         "expires": "2020-03-13T17:04:00-05:00",
+         "counties affected": "Callaway, MO; Osage, MO",
+         "description": "...The flood warning continues for the following river in Missouri...   Missouri River near Chamois  Missouri River at Gasconade  River forecasts are based on observed precipitation and forecast precipitation for the next 48 hours.  The Flood Warning continues for the Missouri River near Chamois * until late Friday night. * At  7:48 AM Thursday the stage was 17.0 feet. * Flood stage is 17.0 feet. * The river is forecast to continue falling to below flood stage this afternoon. * Impact:  At 17.0 feet...Flood Stage:  Lower lying bottom land begins to flood."
+      }
+   ],
+   "2020-03-12T22:38:49+00:00": [
+      {
+         "event": "Severe Thunderstorm Warning",
+         "issued": "2020-03-12T17:38:00-05:00",
+         "expires": "2020-03-12T18:15:00-05:00",
+         "counties affected": "Carter, MO",
+         "description": "At 538 PM CDT, a severe thunderstorm was located near Van Buren, moving east at 45 mph.  HAZARD...60 mph wind gusts and quarter size hail.  SOURCE...Law enforcement.  IMPACT...Hail damage to vehicles is expected. Expect wind damage to roofs, siding, and trees.  Locations impacted include... Van Buren, Ellsinore and Hunter."
+      },
+      {
+         "event": "Tornado Warning",
+         "issued": "2020-03-12T17:36:00-05:00",
+         "expires": "2020-03-12T18:15:00-05:00",
+         "counties affected": "Butler, MO",
+         "description": "The National Weather Service in Paducah has issued a  * Tornado Warning for... Central Butler County in southeastern Missouri...  * Until 615 PM CDT.  * At 536 PM CDT, a confirmed large and extremely dangerous tornado was located near Poplar Bluff, moving east at 50 mph.  This is a PARTICULARLY DANGEROUS SITUATION. TAKE COVER NOW!  HAZARD...Damaging tornado.  SOURCE...Law enforcement confirmed tornado.  IMPACT...You are in a life-threatening situation. Flying debris may be deadly to those caught without shelter. Mobile homes will be destroyed. Considerable damage to homes, businesses, and vehicles is likely and complete destruction is possible.  * The tornado will be near... Fisk around 550 PM CDT."
+      },
+      {
+         "event": "Tornado Warning",
+         "issued": "2020-03-12T17:34:00-05:00",
+         "expires": "2020-03-12T17:45:00-05:00",
+         "counties affected": "Butler, MO",
+         "description": "At 534 PM CDT, a confirmed large and extremely dangerous tornado was located near Poplar Bluff, moving east at 50 mph.  This is a PARTICULARLY DANGEROUS SITUATION. TAKE COVER NOW!  HAZARD...Damaging tornado.  SOURCE...Law enforcement confirmed tornado. The tornado was reported approaching the northwest side of Poplar Bluff near Highway 67.  IMPACT...You are in a life-threatening situation. Flying debris may be deadly to those caught without shelter. Mobile homes will be destroyed. Considerable damage to homes, businesses, and vehicles is likely and complete destruction is possible.  Locations impacted include... Poplar Bluff, Fisk, Hendrickson and Rombauer."
+      },
+      {
+         "event": "Special Weather Statement",
+         "issued": "2020-03-12T17:30:00-05:00",
+         "expires": "2020-03-12T17:45:00-05:00",
+         "counties affected": "Oregon",
+         "description": "At 529 PM CDT, Doppler radar was tracking a strong thunderstorm near Dalton, or 15 miles east of Mammoth Spring, moving east at 55 mph.  Nickel size hail and wind gusts up to 50 mph will be possible with this storm.  Locations impacted include... Myrtle...  A Tornado Watch remains in effect until 1100 PM CDT for south central Missouri."
+      },
+      {
+         "event": "Tornado Watch",
+         "issued": "2020-03-12T17:21:00-05:00",
+         "expires": "2020-03-12T23:00:00-05:00",
+         "counties affected": "Lauderdale, TN; Craighead, AR; Weakley, TN; Poinsett, AR; Dyer, TN; Obion, TN; Greene, AR; Pemiscot, MO; Lake, TN; Dunklin, MO; Gibson, TN; Mississippi, AR; Cross, AR; Clay, AR",
+         "description": "TORNADO WATCH 47 REMAINS VALID UNTIL 11 PM CDT THIS EVENING FOR THE FOLLOWING AREAS  IN ARKANSAS THIS WATCH INCLUDES 6 COUNTIES  IN EAST ARKANSAS  CLAY                  CRAIGHEAD             CROSS GREENE                MISSISSIPPI           POINSETT  IN MISSOURI THIS WATCH INCLUDES 2 COUNTIES  IN SOUTHEAST MISSOURI  DUNKLIN               PEMISCOT  IN TENNESSEE THIS WATCH INCLUDES 6 COUNTIES  IN WEST TENNESSEE  DYER                  GIBSON                LAKE LAUDERDALE            OBION                 WEAKLEY  THIS INCLUDES THE CITIES OF BLYTHEVILLE, CARUTHERSVILLE, CORNING, DRESDEN, DYERSBURG, HARRISBURG, HUMBOLDT, JONESBORO, KENNETT, MARTIN, MILAN, PARAGOULD, PIGGOTT, RIPLEY TN, TIPTONVILLE, UNION CITY, AND WYNNE."
+      },
+      {
+         "event": "Tornado Watch",
+         "issued": "2020-03-12T16:59:00-05:00",
+         "expires": "2020-03-12T23:00:00-05:00",
+         "counties affected": "Mississippi, MO; Graves, KY; Stoddard, MO; Cape Girardeau, MO; Alexander, IL; Carlisle, KY; Johnson, IL; Perry, MO; McCracken, KY; Ballard, KY; Carter, MO; New Madrid, MO; Scott, MO; Union, IL; Wayne, MO; Fulton, KY; Hickman, KY; Ripley, MO; Jackson, IL; Butler, MO; Bollinger, MO; Massac, IL; Pulaski, IL",
+         "description": "TORNADO WATCH 47 REMAINS VALID UNTIL 11 PM CDT THIS EVENING FOR THE FOLLOWING AREAS  IN ILLINOIS THIS WATCH INCLUDES 6 COUNTIES  IN SOUTHERN ILLINOIS  ALEXANDER             JACKSON               JOHNSON MASSAC                PULASKI               UNION  IN KENTUCKY THIS WATCH INCLUDES 6 COUNTIES  IN WESTERN KENTUCKY  BALLARD               CARLISLE              FULTON GRAVES                HICKMAN               MCCRACKEN  IN MISSOURI THIS WATCH INCLUDES 11 COUNTIES  IN SOUTHEAST MISSOURI  BOLLINGER             BUTLER                CAPE GIRARDEAU CARTER                MISSISSIPPI           NEW MADRID PERRY                 RIPLEY                SCOTT STODDARD              WAYNE  THIS INCLUDES THE CITIES OF BARDWELL, BLOOMFIELD, CAIRO, CAPE GIRARDEAU, CARBONDALE, CHARLESTON, CLINTON, DONIPHAN, HICKMAN, JACKSON, JONESBORO, MARBLE HILL, MAYFIELD, METROPOLIS, MOUND CITY, MURPHYSBORO, NEW MADRID, PADUCAH, PERRYVILLE, PIEDMONT, POPLAR BLUFF, SIKESTON, VAN BUREN, VIENNA, AND WICKLIFFE."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T16:21:00-05:00",
+         "expires": "2020-03-13T22:21:00-05:00",
+         "counties affected": "Montgomery, MO; Gasconade, MO",
+         "description": "...The National Weather Service in St. Louis has issued a flood warning for the following rivers in Missouri...   Missouri River at Hermann   River forecasts are based on observed precipitation and forecast precipitation for the next 48 hours.  The National Weather Service in St. Louis has issued a  * Flood Warning for the Missouri River at Hermann * until Friday evening. * At  3:30 PM Thursday the stage was 21.2 feet. * Flood stage is 21.0 feet. * The river is forecast to continue to fall to below flood stage by late this afternoon. * Impact:  At 21.0 feet...Minor flooding of cropland begins... particularly just north of the Highway 19 bridge along the Loutre River."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T15:58:00-05:00",
+         "expires": "2020-03-13T06:57:00-05:00",
+         "counties affected": "Vernon, MO",
+         "description": "...The Flood Warning continues for the following rivers in Missouri...  Marmaton River near Nevada affecting Vernon County ...The Flood Warning continues for the following rivers in Missouri...  Little Osage River near Horton affecting Vernon County  .Heavy rainfall Wednesday caused river levels to rise above flood stage."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T15:58:00-05:00",
+         "expires": "2020-03-13T06:57:00-05:00",
+         "counties affected": "Vernon, MO",
+         "description": "...The Flood Warning continues for the following rivers in Missouri...  Marmaton River near Nevada affecting Vernon County ...The Flood Warning continues for the following rivers in Missouri...  Little Osage River near Horton affecting Vernon County  .Heavy rainfall Wednesday caused river levels to rise above flood stage."
+      },
+      {
+         "event": "Tornado Watch",
+         "issued": "2020-03-12T15:47:00-05:00",
+         "expires": "2020-03-12T23:00:00-05:00",
+         "counties affected": "Ste. Genevieve, MO; Reynolds, MO; Madison, MO; Iron, MO; St. Francois, MO",
+         "description": "THE NATIONAL WEATHER SERVICE HAS ISSUED TORNADO WATCH 47 IN EFFECT UNTIL 11 PM CDT THIS EVENING FOR THE FOLLOWING AREAS  IN MISSOURI THIS WATCH INCLUDES 5 COUNTIES  IN SOUTHEAST MISSOURI  IRON MO               MADISON MO            REYNOLDS MO SAINT FRANCOIS MO     SAINTE GENEVIEVE MO  THIS INCLUDES THE CITIES OF FARMINGTON."
+      },
+      {
+         "event": "Tornado Watch",
+         "issued": "2020-03-12T15:46:00-05:00",
+         "expires": "2020-03-12T23:00:00-05:00",
+         "counties affected": "Shannon, MO; Ozark, MO; Howell, MO; Oregon, MO",
+         "description": "THE NATIONAL WEATHER SERVICE HAS ISSUED TORNADO WATCH 47 IN EFFECT UNTIL 11 PM CDT THIS EVENING FOR THE FOLLOWING AREAS  IN MISSOURI THIS WATCH INCLUDES 4 COUNTIES  IN SOUTH CENTRAL MISSOURI  HOWELL                OREGON                SHANNON  IN SOUTHWEST MISSOURI  OZARK  THIS INCLUDES THE CITIES OF ALTON, BIRCH TREE, COUCH, GREER, MONTIER, POMONA, POTTERSVILLE, SILOAM SPRINGS, SOUTH FORK, TERESITA, THAYER, THOMASVILLE, WASOLA, WEST PLAINS, WHITE CHURCK, WILDERNESS, AND WINONA."
+      },
+      {
+         "event": "Flood Advisory",
+         "issued": "2020-03-12T12:11:00-05:00",
+         "expires": "2020-03-13T12:10:00-05:00",
+         "counties affected": "New Madrid, MO; Pemiscot, MO; Lake, TN",
+         "description": "...The National Weather Service in Memphis TN has issued a Flood Advisory for the Mississippi River...  Mississippi River at Tiptonville affecting New Madrid...Pemiscot and Lake Counties Mississippi River at Tunica Riverpark affecting Lee and Tunica Counties  The National Weather Service in Memphis TN has issued a * Flood Advisory for the Mississippi River at Tiptonville * from Thursday March 12 until Tuesday March 24. * At 11 AM Thursday the stage was 32.0 feet. * Flood stage is 37.0 feet. * Forecast...The river will rise to near 35.5 feet Sunday March 22. * At 36.0 feet...In Missouri, Most fields around Robinson Lake in Pemiscot County are covered by flood water."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T12:07:00-05:00",
+         "expires": "2020-03-13T16:06:00-05:00",
+         "counties affected": "Mississippi, MO; Fulton, KY; Hickman, KY; Alexander, IL; Carlisle, KY; Ballard, KY; Pulaski, IL",
+         "description": "...The flood warning continues for the following rivers in Illinois...Kentucky...Missouri...  Ohio River at Olmsted Lock and Dam affecting Pulaski and Ballard Counties Ohio River at Cairo affecting Alexander...Pulaski...Ballard... Carlisle...Fulton...Hickman and Mississippi Counties  .River levels have been fairly steady, and due to expected heavy rainfall, river levels are forecast to slowly rise over the next few days.  The Flood Warning continues for the Ohio River at Cairo. * until further notice. * At 11:00 AM Thursday the stage was 41.0 feet. * Flood Stage is 40.0 feet. * Minor flooding is occurring and Minor flooding is forecast. * Forecast...The river will continue rising to near 45.0 feet by Saturday morning then begin falling."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T12:05:00-05:00",
+         "expires": "2020-03-13T12:05:00-05:00",
+         "counties affected": "Lauderdale, TN; Dyer, TN; Pemiscot, MO; Lake, TN; Mississippi, AR",
+         "description": "...The National Weather Service has issued a Flood Warning for the Mississippi River...  The National Weather Service in Memphis TN has issued a  * Flood Warning for the Mississippi River at Caruthersville * from Thursday March 19 until Tuesday March 24. * At 11 AM Thursday the stage was...29.9 feet. * Minor flooding is forecast. * Maximum forecast stage of 33.5 feet on Monday March 23. * Flood stage is 32.0 feet. * Forecast to rise above flood stage by Thursday March 19 and continue to rise to near 33.5 feet by Monday March 23. The river will fall below flood stage by Tuesday March 24. * At 34.0 feet...In Tennessee, Barr Road along the Middle Fork of the Forked Deer River is flooding near the bridge at the south end of Watkins Road. Water from the north bottom of Lauderdale County is now flowing over the basin boundary into the south bottomm of Lauderdale County. In Missouri, large business just north of Caruthersville is beginning to flood. Many fields adjacent to the Interstate 155 bridge are flooded."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T11:06:00-05:00",
+         "expires": "2020-03-13T17:04:00-05:00",
+         "counties affected": "Montgomery, MO; Gasconade, MO",
+         "description": "...The flood warning continues for the following river in Missouri...   Missouri River near Chamois  Missouri River at Gasconade  River forecasts are based on observed precipitation and forecast precipitation for the next 48 hours.  The Flood Warning continues for the Missouri River at Gasconade * until Sunday morning. * At  7:00 AM Thursday the stage was estimated at 23.9 feet. * Flood stage is 22.0 feet. * Minor flooding is forecast. * The river is expected to be cresting now and is forecast to fall below flood stage late tonight. * Impact:  At 23.5 feet...The southern end of School House Road south of Rhineland begins flooding near this height."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T11:06:00-05:00",
+         "expires": "2020-03-13T17:04:00-05:00",
+         "counties affected": "Callaway, MO; Osage, MO",
+         "description": "...The flood warning continues for the following river in Missouri...   Missouri River near Chamois  Missouri River at Gasconade  River forecasts are based on observed precipitation and forecast precipitation for the next 48 hours.  The Flood Warning continues for the Missouri River near Chamois * until late Friday night. * At  7:48 AM Thursday the stage was 17.0 feet. * Flood stage is 17.0 feet. * The river is forecast to continue falling to below flood stage this afternoon. * Impact:  At 17.0 feet...Flood Stage:  Lower lying bottom land begins to flood."
+      }
+   ],
+   "2020-03-12T22:45:27+00:00": [
+      {
+         "event": "Tornado Warning",
+         "issued": "2020-03-12T17:45:00-05:00",
+         "expires": "2020-03-12T18:15:00-05:00",
+         "counties affected": "Butler, MO",
+         "description": "At 544 PM CDT, a severe thunderstorm capable of producing a tornado was located near Poplar Bluff, moving east at 50 mph.  HAZARD...Tornado and baseball size hail.  SOURCE...Radar indicated rotation. A funnel cloud was observed over the north side of Poplar Bluff.  IMPACT...Flying debris will be dangerous to those caught without shelter. Mobile homes will be damaged or destroyed. Damage to roofs, windows, and vehicles will occur.  Tree damage is likely.  This dangerous storm will be near... Fisk around 550 PM CDT."
+      },
+      {
+         "event": "Severe Thunderstorm Warning",
+         "issued": "2020-03-12T17:38:00-05:00",
+         "expires": "2020-03-12T18:15:00-05:00",
+         "counties affected": "Carter, MO",
+         "description": "At 538 PM CDT, a severe thunderstorm was located near Van Buren, moving east at 45 mph.  HAZARD...60 mph wind gusts and quarter size hail.  SOURCE...Law enforcement.  IMPACT...Hail damage to vehicles is expected. Expect wind damage to roofs, siding, and trees.  Locations impacted include... Van Buren, Ellsinore and Hunter."
+      },
+      {
+         "event": "Tornado Watch",
+         "issued": "2020-03-12T17:21:00-05:00",
+         "expires": "2020-03-12T23:00:00-05:00",
+         "counties affected": "Lauderdale, TN; Craighead, AR; Weakley, TN; Poinsett, AR; Dyer, TN; Obion, TN; Greene, AR; Pemiscot, MO; Lake, TN; Dunklin, MO; Gibson, TN; Mississippi, AR; Cross, AR; Clay, AR",
+         "description": "TORNADO WATCH 47 REMAINS VALID UNTIL 11 PM CDT THIS EVENING FOR THE FOLLOWING AREAS  IN ARKANSAS THIS WATCH INCLUDES 6 COUNTIES  IN EAST ARKANSAS  CLAY                  CRAIGHEAD             CROSS GREENE                MISSISSIPPI           POINSETT  IN MISSOURI THIS WATCH INCLUDES 2 COUNTIES  IN SOUTHEAST MISSOURI  DUNKLIN               PEMISCOT  IN TENNESSEE THIS WATCH INCLUDES 6 COUNTIES  IN WEST TENNESSEE  DYER                  GIBSON                LAKE LAUDERDALE            OBION                 WEAKLEY  THIS INCLUDES THE CITIES OF BLYTHEVILLE, CARUTHERSVILLE, CORNING, DRESDEN, DYERSBURG, HARRISBURG, HUMBOLDT, JONESBORO, KENNETT, MARTIN, MILAN, PARAGOULD, PIGGOTT, RIPLEY TN, TIPTONVILLE, UNION CITY, AND WYNNE."
+      },
+      {
+         "event": "Tornado Watch",
+         "issued": "2020-03-12T16:59:00-05:00",
+         "expires": "2020-03-12T23:00:00-05:00",
+         "counties affected": "Mississippi, MO; Graves, KY; Stoddard, MO; Cape Girardeau, MO; Alexander, IL; Carlisle, KY; Johnson, IL; Perry, MO; McCracken, KY; Ballard, KY; Carter, MO; New Madrid, MO; Scott, MO; Union, IL; Wayne, MO; Fulton, KY; Hickman, KY; Ripley, MO; Jackson, IL; Butler, MO; Bollinger, MO; Massac, IL; Pulaski, IL",
+         "description": "TORNADO WATCH 47 REMAINS VALID UNTIL 11 PM CDT THIS EVENING FOR THE FOLLOWING AREAS  IN ILLINOIS THIS WATCH INCLUDES 6 COUNTIES  IN SOUTHERN ILLINOIS  ALEXANDER             JACKSON               JOHNSON MASSAC                PULASKI               UNION  IN KENTUCKY THIS WATCH INCLUDES 6 COUNTIES  IN WESTERN KENTUCKY  BALLARD               CARLISLE              FULTON GRAVES                HICKMAN               MCCRACKEN  IN MISSOURI THIS WATCH INCLUDES 11 COUNTIES  IN SOUTHEAST MISSOURI  BOLLINGER             BUTLER                CAPE GIRARDEAU CARTER                MISSISSIPPI           NEW MADRID PERRY                 RIPLEY                SCOTT STODDARD              WAYNE  THIS INCLUDES THE CITIES OF BARDWELL, BLOOMFIELD, CAIRO, CAPE GIRARDEAU, CARBONDALE, CHARLESTON, CLINTON, DONIPHAN, HICKMAN, JACKSON, JONESBORO, MARBLE HILL, MAYFIELD, METROPOLIS, MOUND CITY, MURPHYSBORO, NEW MADRID, PADUCAH, PERRYVILLE, PIEDMONT, POPLAR BLUFF, SIKESTON, VAN BUREN, VIENNA, AND WICKLIFFE."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T16:21:00-05:00",
+         "expires": "2020-03-13T22:21:00-05:00",
+         "counties affected": "Montgomery, MO; Gasconade, MO",
+         "description": "...The National Weather Service in St. Louis has issued a flood warning for the following rivers in Missouri...   Missouri River at Hermann   River forecasts are based on observed precipitation and forecast precipitation for the next 48 hours.  The National Weather Service in St. Louis has issued a  * Flood Warning for the Missouri River at Hermann * until Friday evening. * At  3:30 PM Thursday the stage was 21.2 feet. * Flood stage is 21.0 feet. * The river is forecast to continue to fall to below flood stage by late this afternoon. * Impact:  At 21.0 feet...Minor flooding of cropland begins... particularly just north of the Highway 19 bridge along the Loutre River."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T15:58:00-05:00",
+         "expires": "2020-03-13T06:57:00-05:00",
+         "counties affected": "Vernon, MO",
+         "description": "...The Flood Warning continues for the following rivers in Missouri...  Marmaton River near Nevada affecting Vernon County ...The Flood Warning continues for the following rivers in Missouri...  Little Osage River near Horton affecting Vernon County  .Heavy rainfall Wednesday caused river levels to rise above flood stage."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T15:58:00-05:00",
+         "expires": "2020-03-13T06:57:00-05:00",
+         "counties affected": "Vernon, MO",
+         "description": "...The Flood Warning continues for the following rivers in Missouri...  Marmaton River near Nevada affecting Vernon County ...The Flood Warning continues for the following rivers in Missouri...  Little Osage River near Horton affecting Vernon County  .Heavy rainfall Wednesday caused river levels to rise above flood stage."
+      },
+      {
+         "event": "Tornado Watch",
+         "issued": "2020-03-12T15:47:00-05:00",
+         "expires": "2020-03-12T23:00:00-05:00",
+         "counties affected": "Ste. Genevieve, MO; Reynolds, MO; Madison, MO; Iron, MO; St. Francois, MO",
+         "description": "THE NATIONAL WEATHER SERVICE HAS ISSUED TORNADO WATCH 47 IN EFFECT UNTIL 11 PM CDT THIS EVENING FOR THE FOLLOWING AREAS  IN MISSOURI THIS WATCH INCLUDES 5 COUNTIES  IN SOUTHEAST MISSOURI  IRON MO               MADISON MO            REYNOLDS MO SAINT FRANCOIS MO     SAINTE GENEVIEVE MO  THIS INCLUDES THE CITIES OF FARMINGTON."
+      },
+      {
+         "event": "Tornado Watch",
+         "issued": "2020-03-12T15:46:00-05:00",
+         "expires": "2020-03-12T23:00:00-05:00",
+         "counties affected": "Shannon, MO; Ozark, MO; Howell, MO; Oregon, MO",
+         "description": "THE NATIONAL WEATHER SERVICE HAS ISSUED TORNADO WATCH 47 IN EFFECT UNTIL 11 PM CDT THIS EVENING FOR THE FOLLOWING AREAS  IN MISSOURI THIS WATCH INCLUDES 4 COUNTIES  IN SOUTH CENTRAL MISSOURI  HOWELL                OREGON                SHANNON  IN SOUTHWEST MISSOURI  OZARK  THIS INCLUDES THE CITIES OF ALTON, BIRCH TREE, COUCH, GREER, MONTIER, POMONA, POTTERSVILLE, SILOAM SPRINGS, SOUTH FORK, TERESITA, THAYER, THOMASVILLE, WASOLA, WEST PLAINS, WHITE CHURCK, WILDERNESS, AND WINONA."
+      },
+      {
+         "event": "Flood Advisory",
+         "issued": "2020-03-12T12:11:00-05:00",
+         "expires": "2020-03-13T12:10:00-05:00",
+         "counties affected": "New Madrid, MO; Pemiscot, MO; Lake, TN",
+         "description": "...The National Weather Service in Memphis TN has issued a Flood Advisory for the Mississippi River...  Mississippi River at Tiptonville affecting New Madrid...Pemiscot and Lake Counties Mississippi River at Tunica Riverpark affecting Lee and Tunica Counties  The National Weather Service in Memphis TN has issued a * Flood Advisory for the Mississippi River at Tiptonville * from Thursday March 12 until Tuesday March 24. * At 11 AM Thursday the stage was 32.0 feet. * Flood stage is 37.0 feet. * Forecast...The river will rise to near 35.5 feet Sunday March 22. * At 36.0 feet...In Missouri, Most fields around Robinson Lake in Pemiscot County are covered by flood water."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T12:07:00-05:00",
+         "expires": "2020-03-13T16:06:00-05:00",
+         "counties affected": "Mississippi, MO; Fulton, KY; Hickman, KY; Alexander, IL; Carlisle, KY; Ballard, KY; Pulaski, IL",
+         "description": "...The flood warning continues for the following rivers in Illinois...Kentucky...Missouri...  Ohio River at Olmsted Lock and Dam affecting Pulaski and Ballard Counties Ohio River at Cairo affecting Alexander...Pulaski...Ballard... Carlisle...Fulton...Hickman and Mississippi Counties  .River levels have been fairly steady, and due to expected heavy rainfall, river levels are forecast to slowly rise over the next few days.  The Flood Warning continues for the Ohio River at Cairo. * until further notice. * At 11:00 AM Thursday the stage was 41.0 feet. * Flood Stage is 40.0 feet. * Minor flooding is occurring and Minor flooding is forecast. * Forecast...The river will continue rising to near 45.0 feet by Saturday morning then begin falling."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T12:05:00-05:00",
+         "expires": "2020-03-13T12:05:00-05:00",
+         "counties affected": "Lauderdale, TN; Dyer, TN; Pemiscot, MO; Lake, TN; Mississippi, AR",
+         "description": "...The National Weather Service has issued a Flood Warning for the Mississippi River...  The National Weather Service in Memphis TN has issued a  * Flood Warning for the Mississippi River at Caruthersville * from Thursday March 19 until Tuesday March 24. * At 11 AM Thursday the stage was...29.9 feet. * Minor flooding is forecast. * Maximum forecast stage of 33.5 feet on Monday March 23. * Flood stage is 32.0 feet. * Forecast to rise above flood stage by Thursday March 19 and continue to rise to near 33.5 feet by Monday March 23. The river will fall below flood stage by Tuesday March 24. * At 34.0 feet...In Tennessee, Barr Road along the Middle Fork of the Forked Deer River is flooding near the bridge at the south end of Watkins Road. Water from the north bottom of Lauderdale County is now flowing over the basin boundary into the south bottomm of Lauderdale County. In Missouri, large business just north of Caruthersville is beginning to flood. Many fields adjacent to the Interstate 155 bridge are flooded."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T11:06:00-05:00",
+         "expires": "2020-03-13T17:04:00-05:00",
+         "counties affected": "Montgomery, MO; Gasconade, MO",
+         "description": "...The flood warning continues for the following river in Missouri...   Missouri River near Chamois  Missouri River at Gasconade  River forecasts are based on observed precipitation and forecast precipitation for the next 48 hours.  The Flood Warning continues for the Missouri River at Gasconade * until Sunday morning. * At  7:00 AM Thursday the stage was estimated at 23.9 feet. * Flood stage is 22.0 feet. * Minor flooding is forecast. * The river is expected to be cresting now and is forecast to fall below flood stage late tonight. * Impact:  At 23.5 feet...The southern end of School House Road south of Rhineland begins flooding near this height."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T11:06:00-05:00",
+         "expires": "2020-03-13T17:04:00-05:00",
+         "counties affected": "Callaway, MO; Osage, MO",
+         "description": "...The flood warning continues for the following river in Missouri...   Missouri River near Chamois  Missouri River at Gasconade  River forecasts are based on observed precipitation and forecast precipitation for the next 48 hours.  The Flood Warning continues for the Missouri River near Chamois * until late Friday night. * At  7:48 AM Thursday the stage was 17.0 feet. * Flood stage is 17.0 feet. * The river is forecast to continue falling to below flood stage this afternoon. * Impact:  At 17.0 feet...Flood Stage:  Lower lying bottom land begins to flood."
+      }
+   ],
+   "2020-03-12T22:53:41+00:00": [
+      {
+         "event": "Severe Thunderstorm Warning",
+         "issued": "2020-03-12T17:53:00-05:00",
+         "expires": "2020-03-12T18:45:00-05:00",
+         "counties affected": "Stoddard, MO",
+         "description": "The National Weather Service in Paducah has issued a  * Severe Thunderstorm Warning for... Southern Stoddard County in southeastern Missouri...  * Until 645 PM CDT.  * At 553 PM CDT, a severe thunderstorm was located over Fisk, or 12 miles east of Poplar Bluff, moving east, souhteast at 45 mph.  HAZARD...60 mph wind gusts and quarter size hail.  SOURCE...Radar indicated.  IMPACT...Hail damage to vehicles is expected. Expect wind damage to roofs, siding, and trees.  * Locations impacted include... Dexter, Bernie, Essex, Dudley, Baker and Penermon."
+      },
+      {
+         "event": "Tornado Warning",
+         "issued": "2020-03-12T17:50:00-05:00",
+         "expires": "2020-03-12T18:15:00-05:00",
+         "counties affected": "Butler, MO",
+         "description": "At 550 PM CDT, a severe thunderstorm capable of producing a tornado was located over Fisk, or 9 miles east of Poplar Bluff, moving east at 50 mph.  HAZARD...Tornado and ping pong ball size hail.  SOURCE...Radar indicated rotation.  IMPACT...Flying debris will be dangerous to those caught without shelter. Mobile homes will be damaged or destroyed. Damage to roofs, windows, and vehicles will occur.  Tree damage is likely.  This tornadic thunderstorm will remain over mainly rural areas of east central Butler County."
+      },
+      {
+         "event": "Severe Thunderstorm Warning",
+         "issued": "2020-03-12T17:38:00-05:00",
+         "expires": "2020-03-12T18:15:00-05:00",
+         "counties affected": "Carter, MO",
+         "description": "At 538 PM CDT, a severe thunderstorm was located near Van Buren, moving east at 45 mph.  HAZARD...60 mph wind gusts and quarter size hail.  SOURCE...Law enforcement.  IMPACT...Hail damage to vehicles is expected. Expect wind damage to roofs, siding, and trees.  Locations impacted include... Van Buren, Ellsinore and Hunter."
+      },
+      {
+         "event": "Tornado Watch",
+         "issued": "2020-03-12T17:21:00-05:00",
+         "expires": "2020-03-12T23:00:00-05:00",
+         "counties affected": "Lauderdale, TN; Craighead, AR; Weakley, TN; Poinsett, AR; Dyer, TN; Obion, TN; Greene, AR; Pemiscot, MO; Lake, TN; Dunklin, MO; Gibson, TN; Mississippi, AR; Cross, AR; Clay, AR",
+         "description": "TORNADO WATCH 47 REMAINS VALID UNTIL 11 PM CDT THIS EVENING FOR THE FOLLOWING AREAS  IN ARKANSAS THIS WATCH INCLUDES 6 COUNTIES  IN EAST ARKANSAS  CLAY                  CRAIGHEAD             CROSS GREENE                MISSISSIPPI           POINSETT  IN MISSOURI THIS WATCH INCLUDES 2 COUNTIES  IN SOUTHEAST MISSOURI  DUNKLIN               PEMISCOT  IN TENNESSEE THIS WATCH INCLUDES 6 COUNTIES  IN WEST TENNESSEE  DYER                  GIBSON                LAKE LAUDERDALE            OBION                 WEAKLEY  THIS INCLUDES THE CITIES OF BLYTHEVILLE, CARUTHERSVILLE, CORNING, DRESDEN, DYERSBURG, HARRISBURG, HUMBOLDT, JONESBORO, KENNETT, MARTIN, MILAN, PARAGOULD, PIGGOTT, RIPLEY TN, TIPTONVILLE, UNION CITY, AND WYNNE."
+      },
+      {
+         "event": "Tornado Watch",
+         "issued": "2020-03-12T16:59:00-05:00",
+         "expires": "2020-03-12T23:00:00-05:00",
+         "counties affected": "Mississippi, MO; Graves, KY; Stoddard, MO; Cape Girardeau, MO; Alexander, IL; Carlisle, KY; Johnson, IL; Perry, MO; McCracken, KY; Ballard, KY; Carter, MO; New Madrid, MO; Scott, MO; Union, IL; Wayne, MO; Fulton, KY; Hickman, KY; Ripley, MO; Jackson, IL; Butler, MO; Bollinger, MO; Massac, IL; Pulaski, IL",
+         "description": "TORNADO WATCH 47 REMAINS VALID UNTIL 11 PM CDT THIS EVENING FOR THE FOLLOWING AREAS  IN ILLINOIS THIS WATCH INCLUDES 6 COUNTIES  IN SOUTHERN ILLINOIS  ALEXANDER             JACKSON               JOHNSON MASSAC                PULASKI               UNION  IN KENTUCKY THIS WATCH INCLUDES 6 COUNTIES  IN WESTERN KENTUCKY  BALLARD               CARLISLE              FULTON GRAVES                HICKMAN               MCCRACKEN  IN MISSOURI THIS WATCH INCLUDES 11 COUNTIES  IN SOUTHEAST MISSOURI  BOLLINGER             BUTLER                CAPE GIRARDEAU CARTER                MISSISSIPPI           NEW MADRID PERRY                 RIPLEY                SCOTT STODDARD              WAYNE  THIS INCLUDES THE CITIES OF BARDWELL, BLOOMFIELD, CAIRO, CAPE GIRARDEAU, CARBONDALE, CHARLESTON, CLINTON, DONIPHAN, HICKMAN, JACKSON, JONESBORO, MARBLE HILL, MAYFIELD, METROPOLIS, MOUND CITY, MURPHYSBORO, NEW MADRID, PADUCAH, PERRYVILLE, PIEDMONT, POPLAR BLUFF, SIKESTON, VAN BUREN, VIENNA, AND WICKLIFFE."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T16:21:00-05:00",
+         "expires": "2020-03-13T22:21:00-05:00",
+         "counties affected": "Montgomery, MO; Gasconade, MO",
+         "description": "...The National Weather Service in St. Louis has issued a flood warning for the following rivers in Missouri...   Missouri River at Hermann   River forecasts are based on observed precipitation and forecast precipitation for the next 48 hours.  The National Weather Service in St. Louis has issued a  * Flood Warning for the Missouri River at Hermann * until Friday evening. * At  3:30 PM Thursday the stage was 21.2 feet. * Flood stage is 21.0 feet. * The river is forecast to continue to fall to below flood stage by late this afternoon. * Impact:  At 21.0 feet...Minor flooding of cropland begins... particularly just north of the Highway 19 bridge along the Loutre River."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T15:58:00-05:00",
+         "expires": "2020-03-13T06:57:00-05:00",
+         "counties affected": "Vernon, MO",
+         "description": "...The Flood Warning continues for the following rivers in Missouri...  Marmaton River near Nevada affecting Vernon County ...The Flood Warning continues for the following rivers in Missouri...  Little Osage River near Horton affecting Vernon County  .Heavy rainfall Wednesday caused river levels to rise above flood stage."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T15:58:00-05:00",
+         "expires": "2020-03-13T06:57:00-05:00",
+         "counties affected": "Vernon, MO",
+         "description": "...The Flood Warning continues for the following rivers in Missouri...  Marmaton River near Nevada affecting Vernon County ...The Flood Warning continues for the following rivers in Missouri...  Little Osage River near Horton affecting Vernon County  .Heavy rainfall Wednesday caused river levels to rise above flood stage."
+      },
+      {
+         "event": "Tornado Watch",
+         "issued": "2020-03-12T15:47:00-05:00",
+         "expires": "2020-03-12T23:00:00-05:00",
+         "counties affected": "Ste. Genevieve, MO; Reynolds, MO; Madison, MO; Iron, MO; St. Francois, MO",
+         "description": "THE NATIONAL WEATHER SERVICE HAS ISSUED TORNADO WATCH 47 IN EFFECT UNTIL 11 PM CDT THIS EVENING FOR THE FOLLOWING AREAS  IN MISSOURI THIS WATCH INCLUDES 5 COUNTIES  IN SOUTHEAST MISSOURI  IRON MO               MADISON MO            REYNOLDS MO SAINT FRANCOIS MO     SAINTE GENEVIEVE MO  THIS INCLUDES THE CITIES OF FARMINGTON."
+      },
+      {
+         "event": "Tornado Watch",
+         "issued": "2020-03-12T15:46:00-05:00",
+         "expires": "2020-03-12T23:00:00-05:00",
+         "counties affected": "Shannon, MO; Ozark, MO; Howell, MO; Oregon, MO",
+         "description": "THE NATIONAL WEATHER SERVICE HAS ISSUED TORNADO WATCH 47 IN EFFECT UNTIL 11 PM CDT THIS EVENING FOR THE FOLLOWING AREAS  IN MISSOURI THIS WATCH INCLUDES 4 COUNTIES  IN SOUTH CENTRAL MISSOURI  HOWELL                OREGON                SHANNON  IN SOUTHWEST MISSOURI  OZARK  THIS INCLUDES THE CITIES OF ALTON, BIRCH TREE, COUCH, GREER, MONTIER, POMONA, POTTERSVILLE, SILOAM SPRINGS, SOUTH FORK, TERESITA, THAYER, THOMASVILLE, WASOLA, WEST PLAINS, WHITE CHURCK, WILDERNESS, AND WINONA."
+      },
+      {
+         "event": "Flood Advisory",
+         "issued": "2020-03-12T12:11:00-05:00",
+         "expires": "2020-03-13T12:10:00-05:00",
+         "counties affected": "New Madrid, MO; Pemiscot, MO; Lake, TN",
+         "description": "...The National Weather Service in Memphis TN has issued a Flood Advisory for the Mississippi River...  Mississippi River at Tiptonville affecting New Madrid...Pemiscot and Lake Counties Mississippi River at Tunica Riverpark affecting Lee and Tunica Counties  The National Weather Service in Memphis TN has issued a * Flood Advisory for the Mississippi River at Tiptonville * from Thursday March 12 until Tuesday March 24. * At 11 AM Thursday the stage was 32.0 feet. * Flood stage is 37.0 feet. * Forecast...The river will rise to near 35.5 feet Sunday March 22. * At 36.0 feet...In Missouri, Most fields around Robinson Lake in Pemiscot County are covered by flood water."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T12:07:00-05:00",
+         "expires": "2020-03-13T16:06:00-05:00",
+         "counties affected": "Mississippi, MO; Fulton, KY; Hickman, KY; Alexander, IL; Carlisle, KY; Ballard, KY; Pulaski, IL",
+         "description": "...The flood warning continues for the following rivers in Illinois...Kentucky...Missouri...  Ohio River at Olmsted Lock and Dam affecting Pulaski and Ballard Counties Ohio River at Cairo affecting Alexander...Pulaski...Ballard... Carlisle...Fulton...Hickman and Mississippi Counties  .River levels have been fairly steady, and due to expected heavy rainfall, river levels are forecast to slowly rise over the next few days.  The Flood Warning continues for the Ohio River at Cairo. * until further notice. * At 11:00 AM Thursday the stage was 41.0 feet. * Flood Stage is 40.0 feet. * Minor flooding is occurring and Minor flooding is forecast. * Forecast...The river will continue rising to near 45.0 feet by Saturday morning then begin falling."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T12:05:00-05:00",
+         "expires": "2020-03-13T12:05:00-05:00",
+         "counties affected": "Lauderdale, TN; Dyer, TN; Pemiscot, MO; Lake, TN; Mississippi, AR",
+         "description": "...The National Weather Service has issued a Flood Warning for the Mississippi River...  The National Weather Service in Memphis TN has issued a  * Flood Warning for the Mississippi River at Caruthersville * from Thursday March 19 until Tuesday March 24. * At 11 AM Thursday the stage was...29.9 feet. * Minor flooding is forecast. * Maximum forecast stage of 33.5 feet on Monday March 23. * Flood stage is 32.0 feet. * Forecast to rise above flood stage by Thursday March 19 and continue to rise to near 33.5 feet by Monday March 23. The river will fall below flood stage by Tuesday March 24. * At 34.0 feet...In Tennessee, Barr Road along the Middle Fork of the Forked Deer River is flooding near the bridge at the south end of Watkins Road. Water from the north bottom of Lauderdale County is now flowing over the basin boundary into the south bottomm of Lauderdale County. In Missouri, large business just north of Caruthersville is beginning to flood. Many fields adjacent to the Interstate 155 bridge are flooded."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T11:06:00-05:00",
+         "expires": "2020-03-13T17:04:00-05:00",
+         "counties affected": "Montgomery, MO; Gasconade, MO",
+         "description": "...The flood warning continues for the following river in Missouri...   Missouri River near Chamois  Missouri River at Gasconade  River forecasts are based on observed precipitation and forecast precipitation for the next 48 hours.  The Flood Warning continues for the Missouri River at Gasconade * until Sunday morning. * At  7:00 AM Thursday the stage was estimated at 23.9 feet. * Flood stage is 22.0 feet. * Minor flooding is forecast. * The river is expected to be cresting now and is forecast to fall below flood stage late tonight. * Impact:  At 23.5 feet...The southern end of School House Road south of Rhineland begins flooding near this height."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T11:06:00-05:00",
+         "expires": "2020-03-13T17:04:00-05:00",
+         "counties affected": "Callaway, MO; Osage, MO",
+         "description": "...The flood warning continues for the following river in Missouri...   Missouri River near Chamois  Missouri River at Gasconade  River forecasts are based on observed precipitation and forecast precipitation for the next 48 hours.  The Flood Warning continues for the Missouri River near Chamois * until late Friday night. * At  7:48 AM Thursday the stage was 17.0 feet. * Flood stage is 17.0 feet. * The river is forecast to continue falling to below flood stage this afternoon. * Impact:  At 17.0 feet...Flood Stage:  Lower lying bottom land begins to flood."
+      }
+   ],
+   "2020-03-12T22:57:05+00:00": [
+      {
+         "event": "Severe Thunderstorm Warning",
+         "issued": "2020-03-12T17:53:00-05:00",
+         "expires": "2020-03-12T18:45:00-05:00",
+         "counties affected": "Stoddard, MO",
+         "description": "The National Weather Service in Paducah has issued a  * Severe Thunderstorm Warning for... Southern Stoddard County in southeastern Missouri...  * Until 645 PM CDT.  * At 553 PM CDT, a severe thunderstorm was located over Fisk, or 12 miles east of Poplar Bluff, moving east, souhteast at 45 mph.  HAZARD...60 mph wind gusts and quarter size hail.  SOURCE...Radar indicated.  IMPACT...Hail damage to vehicles is expected. Expect wind damage to roofs, siding, and trees.  * Locations impacted include... Dexter, Bernie, Essex, Dudley, Baker and Penermon."
+      },
+      {
+         "event": "Tornado Warning",
+         "issued": "2020-03-12T17:50:00-05:00",
+         "expires": "2020-03-12T18:15:00-05:00",
+         "counties affected": "Butler, MO",
+         "description": "At 550 PM CDT, a severe thunderstorm capable of producing a tornado was located over Fisk, or 9 miles east of Poplar Bluff, moving east at 50 mph.  HAZARD...Tornado and ping pong ball size hail.  SOURCE...Radar indicated rotation.  IMPACT...Flying debris will be dangerous to those caught without shelter. Mobile homes will be damaged or destroyed. Damage to roofs, windows, and vehicles will occur.  Tree damage is likely.  This tornadic thunderstorm will remain over mainly rural areas of east central Butler County."
+      },
+      {
+         "event": "Tornado Watch",
+         "issued": "2020-03-12T17:21:00-05:00",
+         "expires": "2020-03-12T23:00:00-05:00",
+         "counties affected": "Lauderdale, TN; Craighead, AR; Weakley, TN; Poinsett, AR; Dyer, TN; Obion, TN; Greene, AR; Pemiscot, MO; Lake, TN; Dunklin, MO; Gibson, TN; Mississippi, AR; Cross, AR; Clay, AR",
+         "description": "TORNADO WATCH 47 REMAINS VALID UNTIL 11 PM CDT THIS EVENING FOR THE FOLLOWING AREAS  IN ARKANSAS THIS WATCH INCLUDES 6 COUNTIES  IN EAST ARKANSAS  CLAY                  CRAIGHEAD             CROSS GREENE                MISSISSIPPI           POINSETT  IN MISSOURI THIS WATCH INCLUDES 2 COUNTIES  IN SOUTHEAST MISSOURI  DUNKLIN               PEMISCOT  IN TENNESSEE THIS WATCH INCLUDES 6 COUNTIES  IN WEST TENNESSEE  DYER                  GIBSON                LAKE LAUDERDALE            OBION                 WEAKLEY  THIS INCLUDES THE CITIES OF BLYTHEVILLE, CARUTHERSVILLE, CORNING, DRESDEN, DYERSBURG, HARRISBURG, HUMBOLDT, JONESBORO, KENNETT, MARTIN, MILAN, PARAGOULD, PIGGOTT, RIPLEY TN, TIPTONVILLE, UNION CITY, AND WYNNE."
+      },
+      {
+         "event": "Tornado Watch",
+         "issued": "2020-03-12T16:59:00-05:00",
+         "expires": "2020-03-12T23:00:00-05:00",
+         "counties affected": "Mississippi, MO; Graves, KY; Stoddard, MO; Cape Girardeau, MO; Alexander, IL; Carlisle, KY; Johnson, IL; Perry, MO; McCracken, KY; Ballard, KY; Carter, MO; New Madrid, MO; Scott, MO; Union, IL; Wayne, MO; Fulton, KY; Hickman, KY; Ripley, MO; Jackson, IL; Butler, MO; Bollinger, MO; Massac, IL; Pulaski, IL",
+         "description": "TORNADO WATCH 47 REMAINS VALID UNTIL 11 PM CDT THIS EVENING FOR THE FOLLOWING AREAS  IN ILLINOIS THIS WATCH INCLUDES 6 COUNTIES  IN SOUTHERN ILLINOIS  ALEXANDER             JACKSON               JOHNSON MASSAC                PULASKI               UNION  IN KENTUCKY THIS WATCH INCLUDES 6 COUNTIES  IN WESTERN KENTUCKY  BALLARD               CARLISLE              FULTON GRAVES                HICKMAN               MCCRACKEN  IN MISSOURI THIS WATCH INCLUDES 11 COUNTIES  IN SOUTHEAST MISSOURI  BOLLINGER             BUTLER                CAPE GIRARDEAU CARTER                MISSISSIPPI           NEW MADRID PERRY                 RIPLEY                SCOTT STODDARD              WAYNE  THIS INCLUDES THE CITIES OF BARDWELL, BLOOMFIELD, CAIRO, CAPE GIRARDEAU, CARBONDALE, CHARLESTON, CLINTON, DONIPHAN, HICKMAN, JACKSON, JONESBORO, MARBLE HILL, MAYFIELD, METROPOLIS, MOUND CITY, MURPHYSBORO, NEW MADRID, PADUCAH, PERRYVILLE, PIEDMONT, POPLAR BLUFF, SIKESTON, VAN BUREN, VIENNA, AND WICKLIFFE."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T16:21:00-05:00",
+         "expires": "2020-03-13T22:21:00-05:00",
+         "counties affected": "Montgomery, MO; Gasconade, MO",
+         "description": "...The National Weather Service in St. Louis has issued a flood warning for the following rivers in Missouri...   Missouri River at Hermann   River forecasts are based on observed precipitation and forecast precipitation for the next 48 hours.  The National Weather Service in St. Louis has issued a  * Flood Warning for the Missouri River at Hermann * until Friday evening. * At  3:30 PM Thursday the stage was 21.2 feet. * Flood stage is 21.0 feet. * The river is forecast to continue to fall to below flood stage by late this afternoon. * Impact:  At 21.0 feet...Minor flooding of cropland begins... particularly just north of the Highway 19 bridge along the Loutre River."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T15:58:00-05:00",
+         "expires": "2020-03-13T06:57:00-05:00",
+         "counties affected": "Vernon, MO",
+         "description": "...The Flood Warning continues for the following rivers in Missouri...  Marmaton River near Nevada affecting Vernon County ...The Flood Warning continues for the following rivers in Missouri...  Little Osage River near Horton affecting Vernon County  .Heavy rainfall Wednesday caused river levels to rise above flood stage."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T15:58:00-05:00",
+         "expires": "2020-03-13T06:57:00-05:00",
+         "counties affected": "Vernon, MO",
+         "description": "...The Flood Warning continues for the following rivers in Missouri...  Marmaton River near Nevada affecting Vernon County ...The Flood Warning continues for the following rivers in Missouri...  Little Osage River near Horton affecting Vernon County  .Heavy rainfall Wednesday caused river levels to rise above flood stage."
+      },
+      {
+         "event": "Tornado Watch",
+         "issued": "2020-03-12T15:47:00-05:00",
+         "expires": "2020-03-12T23:00:00-05:00",
+         "counties affected": "Ste. Genevieve, MO; Reynolds, MO; Madison, MO; Iron, MO; St. Francois, MO",
+         "description": "THE NATIONAL WEATHER SERVICE HAS ISSUED TORNADO WATCH 47 IN EFFECT UNTIL 11 PM CDT THIS EVENING FOR THE FOLLOWING AREAS  IN MISSOURI THIS WATCH INCLUDES 5 COUNTIES  IN SOUTHEAST MISSOURI  IRON MO               MADISON MO            REYNOLDS MO SAINT FRANCOIS MO     SAINTE GENEVIEVE MO  THIS INCLUDES THE CITIES OF FARMINGTON."
+      },
+      {
+         "event": "Tornado Watch",
+         "issued": "2020-03-12T15:46:00-05:00",
+         "expires": "2020-03-12T23:00:00-05:00",
+         "counties affected": "Shannon, MO; Ozark, MO; Howell, MO; Oregon, MO",
+         "description": "THE NATIONAL WEATHER SERVICE HAS ISSUED TORNADO WATCH 47 IN EFFECT UNTIL 11 PM CDT THIS EVENING FOR THE FOLLOWING AREAS  IN MISSOURI THIS WATCH INCLUDES 4 COUNTIES  IN SOUTH CENTRAL MISSOURI  HOWELL                OREGON                SHANNON  IN SOUTHWEST MISSOURI  OZARK  THIS INCLUDES THE CITIES OF ALTON, BIRCH TREE, COUCH, GREER, MONTIER, POMONA, POTTERSVILLE, SILOAM SPRINGS, SOUTH FORK, TERESITA, THAYER, THOMASVILLE, WASOLA, WEST PLAINS, WHITE CHURCK, WILDERNESS, AND WINONA."
+      },
+      {
+         "event": "Flood Advisory",
+         "issued": "2020-03-12T12:11:00-05:00",
+         "expires": "2020-03-13T12:10:00-05:00",
+         "counties affected": "New Madrid, MO; Pemiscot, MO; Lake, TN",
+         "description": "...The National Weather Service in Memphis TN has issued a Flood Advisory for the Mississippi River...  Mississippi River at Tiptonville affecting New Madrid...Pemiscot and Lake Counties Mississippi River at Tunica Riverpark affecting Lee and Tunica Counties  The National Weather Service in Memphis TN has issued a * Flood Advisory for the Mississippi River at Tiptonville * from Thursday March 12 until Tuesday March 24. * At 11 AM Thursday the stage was 32.0 feet. * Flood stage is 37.0 feet. * Forecast...The river will rise to near 35.5 feet Sunday March 22. * At 36.0 feet...In Missouri, Most fields around Robinson Lake in Pemiscot County are covered by flood water."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T12:07:00-05:00",
+         "expires": "2020-03-13T16:06:00-05:00",
+         "counties affected": "Mississippi, MO; Fulton, KY; Hickman, KY; Alexander, IL; Carlisle, KY; Ballard, KY; Pulaski, IL",
+         "description": "...The flood warning continues for the following rivers in Illinois...Kentucky...Missouri...  Ohio River at Olmsted Lock and Dam affecting Pulaski and Ballard Counties Ohio River at Cairo affecting Alexander...Pulaski...Ballard... Carlisle...Fulton...Hickman and Mississippi Counties  .River levels have been fairly steady, and due to expected heavy rainfall, river levels are forecast to slowly rise over the next few days.  The Flood Warning continues for the Ohio River at Cairo. * until further notice. * At 11:00 AM Thursday the stage was 41.0 feet. * Flood Stage is 40.0 feet. * Minor flooding is occurring and Minor flooding is forecast. * Forecast...The river will continue rising to near 45.0 feet by Saturday morning then begin falling."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T12:05:00-05:00",
+         "expires": "2020-03-13T12:05:00-05:00",
+         "counties affected": "Lauderdale, TN; Dyer, TN; Pemiscot, MO; Lake, TN; Mississippi, AR",
+         "description": "...The National Weather Service has issued a Flood Warning for the Mississippi River...  The National Weather Service in Memphis TN has issued a  * Flood Warning for the Mississippi River at Caruthersville * from Thursday March 19 until Tuesday March 24. * At 11 AM Thursday the stage was...29.9 feet. * Minor flooding is forecast. * Maximum forecast stage of 33.5 feet on Monday March 23. * Flood stage is 32.0 feet. * Forecast to rise above flood stage by Thursday March 19 and continue to rise to near 33.5 feet by Monday March 23. The river will fall below flood stage by Tuesday March 24. * At 34.0 feet...In Tennessee, Barr Road along the Middle Fork of the Forked Deer River is flooding near the bridge at the south end of Watkins Road. Water from the north bottom of Lauderdale County is now flowing over the basin boundary into the south bottomm of Lauderdale County. In Missouri, large business just north of Caruthersville is beginning to flood. Many fields adjacent to the Interstate 155 bridge are flooded."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T11:06:00-05:00",
+         "expires": "2020-03-13T17:04:00-05:00",
+         "counties affected": "Montgomery, MO; Gasconade, MO",
+         "description": "...The flood warning continues for the following river in Missouri...   Missouri River near Chamois  Missouri River at Gasconade  River forecasts are based on observed precipitation and forecast precipitation for the next 48 hours.  The Flood Warning continues for the Missouri River at Gasconade * until Sunday morning. * At  7:00 AM Thursday the stage was estimated at 23.9 feet. * Flood stage is 22.0 feet. * Minor flooding is forecast. * The river is expected to be cresting now and is forecast to fall below flood stage late tonight. * Impact:  At 23.5 feet...The southern end of School House Road south of Rhineland begins flooding near this height."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T11:06:00-05:00",
+         "expires": "2020-03-13T17:04:00-05:00",
+         "counties affected": "Callaway, MO; Osage, MO",
+         "description": "...The flood warning continues for the following river in Missouri...   Missouri River near Chamois  Missouri River at Gasconade  River forecasts are based on observed precipitation and forecast precipitation for the next 48 hours.  The Flood Warning continues for the Missouri River near Chamois * until late Friday night. * At  7:48 AM Thursday the stage was 17.0 feet. * Flood stage is 17.0 feet. * The river is forecast to continue falling to below flood stage this afternoon. * Impact:  At 17.0 feet...Flood Stage:  Lower lying bottom land begins to flood."
+      }
+   ],
+   "2020-03-12T23:00:55+00:00": [
+      {
+         "event": "Severe Thunderstorm Warning",
+         "issued": "2020-03-12T17:53:00-05:00",
+         "expires": "2020-03-12T18:45:00-05:00",
+         "counties affected": "Stoddard, MO",
+         "description": "The National Weather Service in Paducah has issued a  * Severe Thunderstorm Warning for... Southern Stoddard County in southeastern Missouri...  * Until 645 PM CDT.  * At 553 PM CDT, a severe thunderstorm was located over Fisk, or 12 miles east of Poplar Bluff, moving east, souhteast at 45 mph.  HAZARD...60 mph wind gusts and quarter size hail.  SOURCE...Radar indicated.  IMPACT...Hail damage to vehicles is expected. Expect wind damage to roofs, siding, and trees.  * Locations impacted include... Dexter, Bernie, Essex, Dudley, Baker and Penermon."
+      },
+      {
+         "event": "Tornado Watch",
+         "issued": "2020-03-12T17:21:00-05:00",
+         "expires": "2020-03-12T23:00:00-05:00",
+         "counties affected": "Lauderdale, TN; Craighead, AR; Weakley, TN; Poinsett, AR; Dyer, TN; Obion, TN; Greene, AR; Pemiscot, MO; Lake, TN; Dunklin, MO; Gibson, TN; Mississippi, AR; Cross, AR; Clay, AR",
+         "description": "TORNADO WATCH 47 REMAINS VALID UNTIL 11 PM CDT THIS EVENING FOR THE FOLLOWING AREAS  IN ARKANSAS THIS WATCH INCLUDES 6 COUNTIES  IN EAST ARKANSAS  CLAY                  CRAIGHEAD             CROSS GREENE                MISSISSIPPI           POINSETT  IN MISSOURI THIS WATCH INCLUDES 2 COUNTIES  IN SOUTHEAST MISSOURI  DUNKLIN               PEMISCOT  IN TENNESSEE THIS WATCH INCLUDES 6 COUNTIES  IN WEST TENNESSEE  DYER                  GIBSON                LAKE LAUDERDALE            OBION                 WEAKLEY  THIS INCLUDES THE CITIES OF BLYTHEVILLE, CARUTHERSVILLE, CORNING, DRESDEN, DYERSBURG, HARRISBURG, HUMBOLDT, JONESBORO, KENNETT, MARTIN, MILAN, PARAGOULD, PIGGOTT, RIPLEY TN, TIPTONVILLE, UNION CITY, AND WYNNE."
+      },
+      {
+         "event": "Tornado Watch",
+         "issued": "2020-03-12T16:59:00-05:00",
+         "expires": "2020-03-12T23:00:00-05:00",
+         "counties affected": "Mississippi, MO; Graves, KY; Stoddard, MO; Cape Girardeau, MO; Alexander, IL; Carlisle, KY; Johnson, IL; Perry, MO; McCracken, KY; Ballard, KY; Carter, MO; New Madrid, MO; Scott, MO; Union, IL; Wayne, MO; Fulton, KY; Hickman, KY; Ripley, MO; Jackson, IL; Butler, MO; Bollinger, MO; Massac, IL; Pulaski, IL",
+         "description": "TORNADO WATCH 47 REMAINS VALID UNTIL 11 PM CDT THIS EVENING FOR THE FOLLOWING AREAS  IN ILLINOIS THIS WATCH INCLUDES 6 COUNTIES  IN SOUTHERN ILLINOIS  ALEXANDER             JACKSON               JOHNSON MASSAC                PULASKI               UNION  IN KENTUCKY THIS WATCH INCLUDES 6 COUNTIES  IN WESTERN KENTUCKY  BALLARD               CARLISLE              FULTON GRAVES                HICKMAN               MCCRACKEN  IN MISSOURI THIS WATCH INCLUDES 11 COUNTIES  IN SOUTHEAST MISSOURI  BOLLINGER             BUTLER                CAPE GIRARDEAU CARTER                MISSISSIPPI           NEW MADRID PERRY                 RIPLEY                SCOTT STODDARD              WAYNE  THIS INCLUDES THE CITIES OF BARDWELL, BLOOMFIELD, CAIRO, CAPE GIRARDEAU, CARBONDALE, CHARLESTON, CLINTON, DONIPHAN, HICKMAN, JACKSON, JONESBORO, MARBLE HILL, MAYFIELD, METROPOLIS, MOUND CITY, MURPHYSBORO, NEW MADRID, PADUCAH, PERRYVILLE, PIEDMONT, POPLAR BLUFF, SIKESTON, VAN BUREN, VIENNA, AND WICKLIFFE."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T16:21:00-05:00",
+         "expires": "2020-03-13T22:21:00-05:00",
+         "counties affected": "Montgomery, MO; Gasconade, MO",
+         "description": "...The National Weather Service in St. Louis has issued a flood warning for the following rivers in Missouri...   Missouri River at Hermann   River forecasts are based on observed precipitation and forecast precipitation for the next 48 hours.  The National Weather Service in St. Louis has issued a  * Flood Warning for the Missouri River at Hermann * until Friday evening. * At  3:30 PM Thursday the stage was 21.2 feet. * Flood stage is 21.0 feet. * The river is forecast to continue to fall to below flood stage by late this afternoon. * Impact:  At 21.0 feet...Minor flooding of cropland begins... particularly just north of the Highway 19 bridge along the Loutre River."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T15:58:00-05:00",
+         "expires": "2020-03-13T06:57:00-05:00",
+         "counties affected": "Vernon, MO",
+         "description": "...The Flood Warning continues for the following rivers in Missouri...  Marmaton River near Nevada affecting Vernon County ...The Flood Warning continues for the following rivers in Missouri...  Little Osage River near Horton affecting Vernon County  .Heavy rainfall Wednesday caused river levels to rise above flood stage."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T15:58:00-05:00",
+         "expires": "2020-03-13T06:57:00-05:00",
+         "counties affected": "Vernon, MO",
+         "description": "...The Flood Warning continues for the following rivers in Missouri...  Marmaton River near Nevada affecting Vernon County ...The Flood Warning continues for the following rivers in Missouri...  Little Osage River near Horton affecting Vernon County  .Heavy rainfall Wednesday caused river levels to rise above flood stage."
+      },
+      {
+         "event": "Tornado Watch",
+         "issued": "2020-03-12T15:47:00-05:00",
+         "expires": "2020-03-12T23:00:00-05:00",
+         "counties affected": "Ste. Genevieve, MO; Reynolds, MO; Madison, MO; Iron, MO; St. Francois, MO",
+         "description": "THE NATIONAL WEATHER SERVICE HAS ISSUED TORNADO WATCH 47 IN EFFECT UNTIL 11 PM CDT THIS EVENING FOR THE FOLLOWING AREAS  IN MISSOURI THIS WATCH INCLUDES 5 COUNTIES  IN SOUTHEAST MISSOURI  IRON MO               MADISON MO            REYNOLDS MO SAINT FRANCOIS MO     SAINTE GENEVIEVE MO  THIS INCLUDES THE CITIES OF FARMINGTON."
+      },
+      {
+         "event": "Tornado Watch",
+         "issued": "2020-03-12T15:46:00-05:00",
+         "expires": "2020-03-12T23:00:00-05:00",
+         "counties affected": "Shannon, MO; Ozark, MO; Howell, MO; Oregon, MO",
+         "description": "THE NATIONAL WEATHER SERVICE HAS ISSUED TORNADO WATCH 47 IN EFFECT UNTIL 11 PM CDT THIS EVENING FOR THE FOLLOWING AREAS  IN MISSOURI THIS WATCH INCLUDES 4 COUNTIES  IN SOUTH CENTRAL MISSOURI  HOWELL                OREGON                SHANNON  IN SOUTHWEST MISSOURI  OZARK  THIS INCLUDES THE CITIES OF ALTON, BIRCH TREE, COUCH, GREER, MONTIER, POMONA, POTTERSVILLE, SILOAM SPRINGS, SOUTH FORK, TERESITA, THAYER, THOMASVILLE, WASOLA, WEST PLAINS, WHITE CHURCK, WILDERNESS, AND WINONA."
+      },
+      {
+         "event": "Flood Advisory",
+         "issued": "2020-03-12T12:11:00-05:00",
+         "expires": "2020-03-13T12:10:00-05:00",
+         "counties affected": "New Madrid, MO; Pemiscot, MO; Lake, TN",
+         "description": "...The National Weather Service in Memphis TN has issued a Flood Advisory for the Mississippi River...  Mississippi River at Tiptonville affecting New Madrid...Pemiscot and Lake Counties Mississippi River at Tunica Riverpark affecting Lee and Tunica Counties  The National Weather Service in Memphis TN has issued a * Flood Advisory for the Mississippi River at Tiptonville * from Thursday March 12 until Tuesday March 24. * At 11 AM Thursday the stage was 32.0 feet. * Flood stage is 37.0 feet. * Forecast...The river will rise to near 35.5 feet Sunday March 22. * At 36.0 feet...In Missouri, Most fields around Robinson Lake in Pemiscot County are covered by flood water."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T12:07:00-05:00",
+         "expires": "2020-03-13T16:06:00-05:00",
+         "counties affected": "Mississippi, MO; Fulton, KY; Hickman, KY; Alexander, IL; Carlisle, KY; Ballard, KY; Pulaski, IL",
+         "description": "...The flood warning continues for the following rivers in Illinois...Kentucky...Missouri...  Ohio River at Olmsted Lock and Dam affecting Pulaski and Ballard Counties Ohio River at Cairo affecting Alexander...Pulaski...Ballard... Carlisle...Fulton...Hickman and Mississippi Counties  .River levels have been fairly steady, and due to expected heavy rainfall, river levels are forecast to slowly rise over the next few days.  The Flood Warning continues for the Ohio River at Cairo. * until further notice. * At 11:00 AM Thursday the stage was 41.0 feet. * Flood Stage is 40.0 feet. * Minor flooding is occurring and Minor flooding is forecast. * Forecast...The river will continue rising to near 45.0 feet by Saturday morning then begin falling."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T12:05:00-05:00",
+         "expires": "2020-03-13T12:05:00-05:00",
+         "counties affected": "Lauderdale, TN; Dyer, TN; Pemiscot, MO; Lake, TN; Mississippi, AR",
+         "description": "...The National Weather Service has issued a Flood Warning for the Mississippi River...  The National Weather Service in Memphis TN has issued a  * Flood Warning for the Mississippi River at Caruthersville * from Thursday March 19 until Tuesday March 24. * At 11 AM Thursday the stage was...29.9 feet. * Minor flooding is forecast. * Maximum forecast stage of 33.5 feet on Monday March 23. * Flood stage is 32.0 feet. * Forecast to rise above flood stage by Thursday March 19 and continue to rise to near 33.5 feet by Monday March 23. The river will fall below flood stage by Tuesday March 24. * At 34.0 feet...In Tennessee, Barr Road along the Middle Fork of the Forked Deer River is flooding near the bridge at the south end of Watkins Road. Water from the north bottom of Lauderdale County is now flowing over the basin boundary into the south bottomm of Lauderdale County. In Missouri, large business just north of Caruthersville is beginning to flood. Many fields adjacent to the Interstate 155 bridge are flooded."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T11:06:00-05:00",
+         "expires": "2020-03-13T17:04:00-05:00",
+         "counties affected": "Montgomery, MO; Gasconade, MO",
+         "description": "...The flood warning continues for the following river in Missouri...   Missouri River near Chamois  Missouri River at Gasconade  River forecasts are based on observed precipitation and forecast precipitation for the next 48 hours.  The Flood Warning continues for the Missouri River at Gasconade * until Sunday morning. * At  7:00 AM Thursday the stage was estimated at 23.9 feet. * Flood stage is 22.0 feet. * Minor flooding is forecast. * The river is expected to be cresting now and is forecast to fall below flood stage late tonight. * Impact:  At 23.5 feet...The southern end of School House Road south of Rhineland begins flooding near this height."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T11:06:00-05:00",
+         "expires": "2020-03-13T17:04:00-05:00",
+         "counties affected": "Callaway, MO; Osage, MO",
+         "description": "...The flood warning continues for the following river in Missouri...   Missouri River near Chamois  Missouri River at Gasconade  River forecasts are based on observed precipitation and forecast precipitation for the next 48 hours.  The Flood Warning continues for the Missouri River near Chamois * until late Friday night. * At  7:48 AM Thursday the stage was 17.0 feet. * Flood stage is 17.0 feet. * The river is forecast to continue falling to below flood stage this afternoon. * Impact:  At 17.0 feet...Flood Stage:  Lower lying bottom land begins to flood."
+      }
+   ],
+   "2020-03-12T23:05:58+00:00": [
+      {
+         "event": "Tornado Watch",
+         "issued": "2020-03-12T18:05:00-05:00",
+         "expires": "2020-03-12T23:00:00-05:00",
+         "counties affected": "Mississippi, MO; Graves, KY; Stoddard, MO; Cape Girardeau, MO; Alexander, IL; Carlisle, KY; Johnson, IL; Perry, MO; McCracken, KY; Ballard, KY; Carter, MO; New Madrid, MO; Scott, MO; Union, IL; Wayne, MO; Fulton, KY; Hickman, KY; Ripley, MO; Jackson, IL; Butler, MO; Bollinger, MO; Massac, IL; Pulaski, IL",
+         "description": "TORNADO WATCH 47 REMAINS VALID UNTIL 11 PM CDT THIS EVENING FOR THE FOLLOWING AREAS  IN ILLINOIS THIS WATCH INCLUDES 6 COUNTIES  IN SOUTHERN ILLINOIS  ALEXANDER             JACKSON               JOHNSON MASSAC                PULASKI               UNION  IN KENTUCKY THIS WATCH INCLUDES 6 COUNTIES  IN WESTERN KENTUCKY  BALLARD               CARLISLE              FULTON GRAVES                HICKMAN               MCCRACKEN  IN MISSOURI THIS WATCH INCLUDES 11 COUNTIES  IN SOUTHEAST MISSOURI  BOLLINGER             BUTLER                CAPE GIRARDEAU CARTER                MISSISSIPPI           NEW MADRID PERRY                 RIPLEY                SCOTT STODDARD              WAYNE  THIS INCLUDES THE CITIES OF BARDWELL, BLOOMFIELD, CAIRO, CAPE GIRARDEAU, CARBONDALE, CHARLESTON, CLINTON, DONIPHAN, HICKMAN, JACKSON, JONESBORO, MARBLE HILL, MAYFIELD, METROPOLIS, MOUND CITY, MURPHYSBORO, NEW MADRID, PADUCAH, PERRYVILLE, PIEDMONT, POPLAR BLUFF, SIKESTON, VAN BUREN, VIENNA, AND WICKLIFFE."
+      },
+      {
+         "event": "Severe Thunderstorm Warning",
+         "issued": "2020-03-12T18:04:00-05:00",
+         "expires": "2020-03-12T18:45:00-05:00",
+         "counties affected": "Butler, MO",
+         "description": "The National Weather Service in Paducah has issued a  * Severe Thunderstorm Warning for... Northern Butler County in southeastern Missouri...  * Until 645 PM CDT.  * At 603 PM CDT, a severe thunderstorm was located over Brush Arbor, or 14 miles northwest of Poplar Bluff, moving east, southeast at 45 mph.  HAZARD...60 mph wind gusts and quarter size hail.  SOURCE...Radar indicated.  IMPACT...Hail damage to vehicles is expected. Expect wind damage to roofs, siding, and trees.  * Locations impacted include... Poplar Bluff, Fisk, Hendrickson, Brush Arbor and Rombauer."
+      },
+      {
+         "event": "Severe Thunderstorm Warning",
+         "issued": "2020-03-12T17:53:00-05:00",
+         "expires": "2020-03-12T18:45:00-05:00",
+         "counties affected": "Stoddard, MO",
+         "description": "The National Weather Service in Paducah has issued a  * Severe Thunderstorm Warning for... Southern Stoddard County in southeastern Missouri...  * Until 645 PM CDT.  * At 553 PM CDT, a severe thunderstorm was located over Fisk, or 12 miles east of Poplar Bluff, moving east, souhteast at 45 mph.  HAZARD...60 mph wind gusts and quarter size hail.  SOURCE...Radar indicated.  IMPACT...Hail damage to vehicles is expected. Expect wind damage to roofs, siding, and trees.  * Locations impacted include... Dexter, Bernie, Essex, Dudley, Baker and Penermon."
+      },
+      {
+         "event": "Tornado Watch",
+         "issued": "2020-03-12T17:21:00-05:00",
+         "expires": "2020-03-12T23:00:00-05:00",
+         "counties affected": "Lauderdale, TN; Craighead, AR; Weakley, TN; Poinsett, AR; Dyer, TN; Obion, TN; Greene, AR; Pemiscot, MO; Lake, TN; Dunklin, MO; Gibson, TN; Mississippi, AR; Cross, AR; Clay, AR",
+         "description": "TORNADO WATCH 47 REMAINS VALID UNTIL 11 PM CDT THIS EVENING FOR THE FOLLOWING AREAS  IN ARKANSAS THIS WATCH INCLUDES 6 COUNTIES  IN EAST ARKANSAS  CLAY                  CRAIGHEAD             CROSS GREENE                MISSISSIPPI           POINSETT  IN MISSOURI THIS WATCH INCLUDES 2 COUNTIES  IN SOUTHEAST MISSOURI  DUNKLIN               PEMISCOT  IN TENNESSEE THIS WATCH INCLUDES 6 COUNTIES  IN WEST TENNESSEE  DYER                  GIBSON                LAKE LAUDERDALE            OBION                 WEAKLEY  THIS INCLUDES THE CITIES OF BLYTHEVILLE, CARUTHERSVILLE, CORNING, DRESDEN, DYERSBURG, HARRISBURG, HUMBOLDT, JONESBORO, KENNETT, MARTIN, MILAN, PARAGOULD, PIGGOTT, RIPLEY TN, TIPTONVILLE, UNION CITY, AND WYNNE."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T16:21:00-05:00",
+         "expires": "2020-03-13T22:21:00-05:00",
+         "counties affected": "Montgomery, MO; Gasconade, MO",
+         "description": "...The National Weather Service in St. Louis has issued a flood warning for the following rivers in Missouri...   Missouri River at Hermann   River forecasts are based on observed precipitation and forecast precipitation for the next 48 hours.  The National Weather Service in St. Louis has issued a  * Flood Warning for the Missouri River at Hermann * until Friday evening. * At  3:30 PM Thursday the stage was 21.2 feet. * Flood stage is 21.0 feet. * The river is forecast to continue to fall to below flood stage by late this afternoon. * Impact:  At 21.0 feet...Minor flooding of cropland begins... particularly just north of the Highway 19 bridge along the Loutre River."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T15:58:00-05:00",
+         "expires": "2020-03-13T06:57:00-05:00",
+         "counties affected": "Vernon, MO",
+         "description": "...The Flood Warning continues for the following rivers in Missouri...  Marmaton River near Nevada affecting Vernon County ...The Flood Warning continues for the following rivers in Missouri...  Little Osage River near Horton affecting Vernon County  .Heavy rainfall Wednesday caused river levels to rise above flood stage."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T15:58:00-05:00",
+         "expires": "2020-03-13T06:57:00-05:00",
+         "counties affected": "Vernon, MO",
+         "description": "...The Flood Warning continues for the following rivers in Missouri...  Marmaton River near Nevada affecting Vernon County ...The Flood Warning continues for the following rivers in Missouri...  Little Osage River near Horton affecting Vernon County  .Heavy rainfall Wednesday caused river levels to rise above flood stage."
+      },
+      {
+         "event": "Tornado Watch",
+         "issued": "2020-03-12T15:47:00-05:00",
+         "expires": "2020-03-12T23:00:00-05:00",
+         "counties affected": "Ste. Genevieve, MO; Reynolds, MO; Madison, MO; Iron, MO; St. Francois, MO",
+         "description": "THE NATIONAL WEATHER SERVICE HAS ISSUED TORNADO WATCH 47 IN EFFECT UNTIL 11 PM CDT THIS EVENING FOR THE FOLLOWING AREAS  IN MISSOURI THIS WATCH INCLUDES 5 COUNTIES  IN SOUTHEAST MISSOURI  IRON MO               MADISON MO            REYNOLDS MO SAINT FRANCOIS MO     SAINTE GENEVIEVE MO  THIS INCLUDES THE CITIES OF FARMINGTON."
+      },
+      {
+         "event": "Tornado Watch",
+         "issued": "2020-03-12T15:46:00-05:00",
+         "expires": "2020-03-12T23:00:00-05:00",
+         "counties affected": "Shannon, MO; Ozark, MO; Howell, MO; Oregon, MO",
+         "description": "THE NATIONAL WEATHER SERVICE HAS ISSUED TORNADO WATCH 47 IN EFFECT UNTIL 11 PM CDT THIS EVENING FOR THE FOLLOWING AREAS  IN MISSOURI THIS WATCH INCLUDES 4 COUNTIES  IN SOUTH CENTRAL MISSOURI  HOWELL                OREGON                SHANNON  IN SOUTHWEST MISSOURI  OZARK  THIS INCLUDES THE CITIES OF ALTON, BIRCH TREE, COUCH, GREER, MONTIER, POMONA, POTTERSVILLE, SILOAM SPRINGS, SOUTH FORK, TERESITA, THAYER, THOMASVILLE, WASOLA, WEST PLAINS, WHITE CHURCK, WILDERNESS, AND WINONA."
+      },
+      {
+         "event": "Flood Advisory",
+         "issued": "2020-03-12T12:11:00-05:00",
+         "expires": "2020-03-13T12:10:00-05:00",
+         "counties affected": "New Madrid, MO; Pemiscot, MO; Lake, TN",
+         "description": "...The National Weather Service in Memphis TN has issued a Flood Advisory for the Mississippi River...  Mississippi River at Tiptonville affecting New Madrid...Pemiscot and Lake Counties Mississippi River at Tunica Riverpark affecting Lee and Tunica Counties  The National Weather Service in Memphis TN has issued a * Flood Advisory for the Mississippi River at Tiptonville * from Thursday March 12 until Tuesday March 24. * At 11 AM Thursday the stage was 32.0 feet. * Flood stage is 37.0 feet. * Forecast...The river will rise to near 35.5 feet Sunday March 22. * At 36.0 feet...In Missouri, Most fields around Robinson Lake in Pemiscot County are covered by flood water."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T12:07:00-05:00",
+         "expires": "2020-03-13T16:06:00-05:00",
+         "counties affected": "Mississippi, MO; Fulton, KY; Hickman, KY; Alexander, IL; Carlisle, KY; Ballard, KY; Pulaski, IL",
+         "description": "...The flood warning continues for the following rivers in Illinois...Kentucky...Missouri...  Ohio River at Olmsted Lock and Dam affecting Pulaski and Ballard Counties Ohio River at Cairo affecting Alexander...Pulaski...Ballard... Carlisle...Fulton...Hickman and Mississippi Counties  .River levels have been fairly steady, and due to expected heavy rainfall, river levels are forecast to slowly rise over the next few days.  The Flood Warning continues for the Ohio River at Cairo. * until further notice. * At 11:00 AM Thursday the stage was 41.0 feet. * Flood Stage is 40.0 feet. * Minor flooding is occurring and Minor flooding is forecast. * Forecast...The river will continue rising to near 45.0 feet by Saturday morning then begin falling."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T12:05:00-05:00",
+         "expires": "2020-03-13T12:05:00-05:00",
+         "counties affected": "Lauderdale, TN; Dyer, TN; Pemiscot, MO; Lake, TN; Mississippi, AR",
+         "description": "...The National Weather Service has issued a Flood Warning for the Mississippi River...  The National Weather Service in Memphis TN has issued a  * Flood Warning for the Mississippi River at Caruthersville * from Thursday March 19 until Tuesday March 24. * At 11 AM Thursday the stage was...29.9 feet. * Minor flooding is forecast. * Maximum forecast stage of 33.5 feet on Monday March 23. * Flood stage is 32.0 feet. * Forecast to rise above flood stage by Thursday March 19 and continue to rise to near 33.5 feet by Monday March 23. The river will fall below flood stage by Tuesday March 24. * At 34.0 feet...In Tennessee, Barr Road along the Middle Fork of the Forked Deer River is flooding near the bridge at the south end of Watkins Road. Water from the north bottom of Lauderdale County is now flowing over the basin boundary into the south bottomm of Lauderdale County. In Missouri, large business just north of Caruthersville is beginning to flood. Many fields adjacent to the Interstate 155 bridge are flooded."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T11:06:00-05:00",
+         "expires": "2020-03-13T17:04:00-05:00",
+         "counties affected": "Montgomery, MO; Gasconade, MO",
+         "description": "...The flood warning continues for the following river in Missouri...   Missouri River near Chamois  Missouri River at Gasconade  River forecasts are based on observed precipitation and forecast precipitation for the next 48 hours.  The Flood Warning continues for the Missouri River at Gasconade * until Sunday morning. * At  7:00 AM Thursday the stage was estimated at 23.9 feet. * Flood stage is 22.0 feet. * Minor flooding is forecast. * The river is expected to be cresting now and is forecast to fall below flood stage late tonight. * Impact:  At 23.5 feet...The southern end of School House Road south of Rhineland begins flooding near this height."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T11:06:00-05:00",
+         "expires": "2020-03-13T17:04:00-05:00",
+         "counties affected": "Callaway, MO; Osage, MO",
+         "description": "...The flood warning continues for the following river in Missouri...   Missouri River near Chamois  Missouri River at Gasconade  River forecasts are based on observed precipitation and forecast precipitation for the next 48 hours.  The Flood Warning continues for the Missouri River near Chamois * until late Friday night. * At  7:48 AM Thursday the stage was 17.0 feet. * Flood stage is 17.0 feet. * The river is forecast to continue falling to below flood stage this afternoon. * Impact:  At 17.0 feet...Flood Stage:  Lower lying bottom land begins to flood."
+      }
+   ],
+   "2020-03-12T21:34:00-05:00": [
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T20:57:00-05:00",
+         "expires": "2020-03-13T11:57:00-05:00",
+         "counties affected": "Vernon, MO",
+         "description": "...The Flood Warning continues for the following rivers in Missouri...  Little Osage River near Horton affecting Vernon County Marmaton River near Nevada affecting Vernon County  .Additional heavy rainfall over the next 48 hours over the affected basins will cause river levels to rise above flood stage."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T20:57:00-05:00",
+         "expires": "2020-03-13T11:57:00-05:00",
+         "counties affected": "Vernon, MO",
+         "description": "...The Flood Warning continues for the following rivers in Missouri...  Little Osage River near Horton affecting Vernon County Marmaton River near Nevada affecting Vernon County  .Additional heavy rainfall over the next 48 hours over the affected basins will cause river levels to rise above flood stage.  * Forecast...The river has crested and will continue to fall to below flood stage by Saturday afternoon. The river will then rise above flood stage again by Sunday afternoon."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T20:53:00-05:00",
+         "expires": "2020-03-13T20:52:00-05:00",
+         "counties affected": "Montgomery, MO; Gasconade, MO",
+         "description": "...The flood warning continues for the following river in Missouri...   Missouri River near Chamois...Gasconade...Hermann  River forecasts are based on observed precipitation and forecast precipitation for the next 48 hours.  The Flood Warning continues for the Missouri River at Gasconade * until further notice. * At  6:00 AM Thursday the stage was 22.7 feet. * Flood stage is 22.0 feet. * Minor flooding is forecast. * The river is forecast to crest near 23.3 feet by Monday morning. * Impact:  At 23.5 feet...The southern end of School House Road south of Rhineland begins flooding near this height."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T20:53:00-05:00",
+         "expires": "2020-03-13T20:52:00-05:00",
+         "counties affected": "Montgomery, MO; Gasconade, MO",
+         "description": "...The flood warning continues for the following river in Missouri...   Missouri River near Chamois...Gasconade...Hermann  River forecasts are based on observed precipitation and forecast precipitation for the next 48 hours.  The Flood Warning continues for the Missouri River at Hermann * until Friday March 20. * At  8:30 PM Thursday the stage was 21.4 feet. * Flood stage is 21.0 feet. * Minor flooding is forecast. * The river is forecast to crest near 21.5 feet by after midnight tonight, then fall below flood stage early Thursday morning."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T20:53:00-05:00",
+         "expires": "2020-03-13T20:52:00-05:00",
+         "counties affected": "Callaway, MO; Osage, MO",
+         "description": "...The flood warning continues for the following river in Missouri...   Missouri River near Chamois...Gasconade...Hermann  River forecasts are based on observed precipitation and forecast precipitation for the next 48 hours.  The Flood Warning continues for the Missouri River near Chamois * until Saturday afternoon. * At  7:48 AM Thursday the stage was 17.0 feet. * Flood stage is 17.0 feet. * The river is forecast to continue falling to below flood stage by after midnight tonight."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T20:48:00-05:00",
+         "expires": "2020-03-13T08:48:00-05:00",
+         "counties affected": "St. Clair, MO",
+         "description": "...The National Weather Service in Springfield has issued a Flood Warning for the following rivers in Missouri...  Big Piney  below Fort Leonard Wood East Gate affecting Pulaski County. Osage River at Taberville affecting St. Clair County. Sac River near Caplinger Mills affecting Cedar County.   .This warning is based on future forecast precipitation amounts of 1 to 1.25 inches during the next 48 hours near the river basins. If conditions warrant...additional rises or falls may occur based on future precipitation and runoff."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T20:48:00-05:00",
+         "expires": "2020-03-13T08:48:00-05:00",
+         "counties affected": "Pulaski, MO",
+         "description": "...The National Weather Service in Springfield has issued a Flood Warning for the following rivers in Missouri...  Big Piney  below Fort Leonard Wood East Gate affecting Pulaski County. Osage River at Taberville affecting St. Clair County. Sac River near Caplinger Mills affecting Cedar County.   .This warning is based on future forecast precipitation amounts of 1 to 1.25 inches during the next 48 hours near the river basins. If conditions warrant...additional rises or falls may occur based on future precipitation and runoff."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T20:48:00-05:00",
+         "expires": "2020-03-13T08:48:00-05:00",
+         "counties affected": "Cedar, MO",
+         "description": "...The National Weather Service in Springfield has issued a Flood Warning for the following rivers in Missouri...  Big Piney  below Fort Leonard Wood East Gate affecting Pulaski County. Osage River at Taberville affecting St. Clair County. Sac River near Caplinger Mills affecting Cedar County.   .This warning is based on future forecast precipitation amounts of 1 to 1.25 inches during the next 48 hours near the river basins. If conditions warrant...additional rises or falls may occur based on future precipitation and runoff."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T19:34:00-05:00",
+         "expires": "2020-03-13T23:34:00-05:00",
+         "counties affected": "Mississippi, MO; Fulton, KY; Hickman, KY; Alexander, IL; Carlisle, KY; Ballard, KY; Pulaski, IL",
+         "description": "...The flood warning continues for the following rivers in Illinois...Kentucky...Missouri... Ohio River at Olmsted Lock and Dam affecting Pulaski and Ballard Counties Ohio River at Cairo affecting Alexander...Pulaski...Ballard... Carlisle...Fulton...Hickman and Mississippi Counties  .Recent rainfall and and forecast rainfall this weekend will send points on the lower Ohio back upward for the next week, with crests expected the weekend of March 21.  The Flood Warning continues for the Ohio River at Cairo * until further notice. * At  7:00 PM Thursday the stage was 41.0 feet. * Flood Stage is 40.0 feet. * Minor flooding is occurring and Minor flooding is forecast. * Forecast...The river will continue rising to near 45.0 feet by Saturday, March 21, then begin falling."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T19:22:00-05:00",
+         "expires": "2020-03-13T19:21:00-05:00",
+         "counties affected": "Lauderdale, TN; Dyer, TN; Pemiscot, MO; Lake, TN; Mississippi, AR",
+         "description": "The Flood Warning continues for the Mississippi River.  The Flood Warning continues for the Mississippi River at Caruthersville * from Thursday March 19 until Tuesday March 24. * At 07 PM Thursday the stage was 29.9 feet. * Minor flooding is forecast. * Maximum forecast stage of 33.5 feet on Monday March 23. * Flood stage is 32.0 feet. * Forecast to rise above flood stage by Thursday March 19 and continue to rise to near 33.5 feet by Monday March 23. The river will fall below flood stage by Tuesday March 24. * At 34.0 feet...In Tennessee, Barr Road along the Middle Fork of the Forked Deer River is flooding near the bridge at the south end of Watkins Road. Water from the north bottom of Lauderdale County is now flowing over the basin boundary into the south bottomm of Lauderdale County. In Missouri, large business just north of Caruthersville is beginning to flood. Many fields adjacent to the Interstate 155 bridge are flooded."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-12T19:18:00-05:00",
+         "expires": "2020-03-13T19:17:00-05:00",
+         "counties affected": "Cooper, MO",
+         "description": "...The National Weather Service in Pleasant Hill Mo has issued a flood warning for the following rivers in Missouri...  Petite Saline Creek near Boonville affecting Cooper County.  The National Weather Service in Pleasant Hill Mo has issued a  * Flood Warning for The Petite Saline Creek near Boonville. * until Monday morning. * At  6:30 PM Thursday the stage was 15.6 feet. * Flood stage is 16.0 feet. * Minor flooding is forecast. * Forecast...Rise above flood stage by tonight then will fall below flood stage for Friday, only to rise to near 16.6 feet by Sunday morning. The river will fall below flood stage by Sunday morning. * At 16.0 feet...Low lying woodlands and fields near the creek flood."
+      },
+      {
+         "event": "Tornado Watch",
+         "issued": "2020-03-12T17:21:00-05:00",
+         "expires": "2020-03-12T23:00:00-05:00",
+         "counties affected": "Lauderdale, TN; Craighead, AR; Weakley, TN; Poinsett, AR; Dyer, TN; Obion, TN; Greene, AR; Pemiscot, MO; Lake, TN; Dunklin, MO; Gibson, TN; Mississippi, AR; Cross, AR; Clay, AR",
+         "description": "TORNADO WATCH 47 REMAINS VALID UNTIL 11 PM CDT THIS EVENING FOR THE FOLLOWING AREAS  IN ARKANSAS THIS WATCH INCLUDES 6 COUNTIES  IN EAST ARKANSAS  CLAY                  CRAIGHEAD             CROSS GREENE                MISSISSIPPI           POINSETT  IN MISSOURI THIS WATCH INCLUDES 2 COUNTIES  IN SOUTHEAST MISSOURI  DUNKLIN               PEMISCOT  IN TENNESSEE THIS WATCH INCLUDES 6 COUNTIES  IN WEST TENNESSEE  DYER                  GIBSON                LAKE LAUDERDALE            OBION                 WEAKLEY  THIS INCLUDES THE CITIES OF BLYTHEVILLE, CARUTHERSVILLE, CORNING, DRESDEN, DYERSBURG, HARRISBURG, HUMBOLDT, JONESBORO, KENNETT, MARTIN, MILAN, PARAGOULD, PIGGOTT, RIPLEY TN, TIPTONVILLE, UNION CITY, AND WYNNE."
+      },
+      {
+         "event": "Flood Advisory",
+         "issued": "2020-03-12T12:11:00-05:00",
+         "expires": "2020-03-13T12:10:00-05:00",
+         "counties affected": "New Madrid, MO; Pemiscot, MO; Lake, TN",
+         "description": "...The National Weather Service in Memphis TN has issued a Flood Advisory for the Mississippi River...  Mississippi River at Tiptonville affecting New Madrid...Pemiscot and Lake Counties Mississippi River at Tunica Riverpark affecting Lee and Tunica Counties  The National Weather Service in Memphis TN has issued a * Flood Advisory for the Mississippi River at Tiptonville * from Thursday March 12 until Tuesday March 24. * At 11 AM Thursday the stage was 32.0 feet. * Flood stage is 37.0 feet. * Forecast...The river will rise to near 35.5 feet Sunday March 22. * At 36.0 feet...In Missouri, Most fields around Robinson Lake in Pemiscot County are covered by flood water."
+      }
+   ]
+}
