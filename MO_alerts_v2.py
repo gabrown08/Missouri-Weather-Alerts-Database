@@ -23,9 +23,12 @@ def alerts(area="MO"):
     #create empty dictionary if date does not yet exist
     except:
         log[update_date] = {}
+    #check if there are already alerts for given time
     try:
         log[update_date][update_time]
+    #add new updates to database if current alerts are not already there
     except:
+        log[update_date][update_time] = {}
         #generate list of current events as new entry in database
         new_list = [{'event':new_data['features'][i]['properties']['event'],
                     'issued':new_data['features'][i]['properties']['effective'],
@@ -36,7 +39,7 @@ def alerts(area="MO"):
                     for i in range(len(new_data['features']))
                     ]
         #if new list of alerts is not already in database under current date and time, add it to database, and save file
-        if new_list not in log[update_time].values():
+        if new_list not in log[update_date][update_time].values():
             log[update_date][update_time] = new_list
             #save updated file to computer
             with open('MO_alerts_log_v2.json', 'w') as f:
