@@ -39,7 +39,7 @@ def alerts(area="MO"):
                     for i in range(len(new_data['features']))
                     ]
         #if new list of alerts is not already in database under current date and time, add it to database, and save file
-        if new_list not in log[update_date][update_time].values():
+        if new_list not in log[update_date].values():
             log[update_date][update_time] = new_list
             #save updated file to computer
             with open('MO_alerts_log_v2.json', 'w') as f:
