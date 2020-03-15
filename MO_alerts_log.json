@@ -2307,5 +2307,112 @@
          "counties affected": "New Madrid, MO; Pemiscot, MO; Lake, TN",
          "description": "...The Flood Advisory continues for the Mississippi River... Mississippi River at Tiptonville affecting New Madrid...Pemiscot and Lake Counties  The Flood Advisory continues for the Mississippi River at Tiptonville * until Tuesday March 24. * At 11 AM Friday the stage was 31.9 feet. * Flood stage is 37.0 feet. * Forecast...The river will rise to near 36.5 feet Sunday March 22. * At 36.0 feet...In Missouri, Most fields around Robinson Lake in Pemiscot County are covered by flood water."
       }
+   ],
+   "2020-03-15T16:05:33+00:00": [
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-15T11:05:00-05:00",
+         "expires": "2020-03-16T11:04:00-05:00",
+         "counties affected": "Greene, AR; Dunklin, MO; Clay, AR",
+         "description": "The Flood Warning continues for the Loosahatchie River...Saint Francis River.  The Flood Warning continues for the Saint Francis River near Saint Francis * until Monday March 16. * At 10 AM Sunday the stage was 22.1 feet. * Minor flooding is occurring AND Minor flooding is forecast. * Maximum forecast stage of 22.3 feet on Sunday March 15. * Flood stage is 22.0 feet. * The river rose above flood stage Sunday March 15 and will continue rising to near 22.3 feet by Sunday March 15. The river will fall below flood stage Monday March 16. * At 22.0 feet...Several roads near Wilhelmina, Missouri are flooded. Recreational areas and large areas of agricultural land near the river are flooded."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-15T10:59:00-05:00",
+         "expires": "2020-03-16T16:59:00-05:00",
+         "counties affected": "Randolph, IL; Jackson, IL; Ste. Genevieve, MO; Perry, MO",
+         "description": "...The flood warning continues for the following river in Missouri and Illinois...   Mississippi River at  Chester   River forecasts are based on observed precipitation and forecast precipitation for the next 48 hours.  The Flood Warning continues for The Mississippi River at Chester * Until Thursday afternoon. * At 10:30 AM Sunday the stage was 26.5 feet. * Flood stage is 27.0 feet. * The river is forecast to rise back above flood stage Tuesday afternoon and crest near 27.2 feet Wednesday morning."
+      },
+      {
+         "event": "Flood Advisory",
+         "issued": "2020-03-15T10:13:00-05:00",
+         "expires": "2020-03-15T16:15:00-05:00",
+         "counties affected": "Shannon, MO; Howell, MO; Oregon, MO; Texas, MO",
+         "description": "The National Weather Service in Springfield has issued a  * Flood Advisory for... Shannon County in south central Missouri... Howell County in south central Missouri... Texas County in south central Missouri... Oregon County in south central Missouri...  * Until 415 PM CDT Sunday.  * At 1009 AM CDT, gauge reports indicated some streams across the Current River and Eleven Point River basins have yet to crest. Additionally, the Department of Highways still shows flooding of a low water crossing in western Howell County. Expect minor residual flooding to continue on sensitive streams and low water crossings into this afternoon.  Locations in the advisory include... West Plains...                    Echo Bluff State Park... Current River State Park...       Grand Gulf State Park... Mountain Grove...                 Licking... Mountain View...                  Thayer... Willow Springs...                 Cabool... Houston...                        Winona... Alton...                          Birch Tree... Eminence...                       Pomona... Summersville...                   Raymondville... South Fork...                     Koshkonong...  This advisory includes but is not limited to the following low water crossings... Route H, 3 miles east of Winona... Highway 142 at The Spring River west of Lanton... Highway 142 at The Bennetts River west of Moody... Route K, 3 miles southwest of Pottersville... and Route H at Rocky Creek 6 miles northeast of Winona."
+      },
+      {
+         "event": "Flood Advisory",
+         "issued": "2020-03-15T09:55:00-05:00",
+         "expires": "2020-03-15T16:00:00-05:00",
+         "counties affected": "Ozark, MO; Douglas, MO; Wright, MO",
+         "description": "The National Weather Service in Springfield has issued a  * Flood Advisory for... Ozark County in southwestern Missouri... Douglas County in southwestern Missouri... Wright County in southwestern Missouri...  * Until 400 PM CDT Sunday.  * At 953 AM CDT, the Department of Transportation reported multiple low water crossings that are still flooded across the advisory area as a result of 1 to 2 inches of rain that fell yesterday morning into early afternoon.  * Creeks, streams, and low water crossings will be especially susceptible to the dangers of flooding.  This advisory includes but is not limited to the following low water crossings... Route E north of Highway 38 at The Gasconade River... Route FF at Hunter Creek east of Ava... Route FF at Turkey Creek east of Ava... Route Y at Cowskin Creek 3 miles west of Ava... and Route M at Parks Creek near Grovespring."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-15T09:24:00-05:00",
+         "expires": "2020-03-16T00:23:00-05:00",
+         "counties affected": "Pulaski, MO",
+         "description": "...The Flood Warning continues for the following rivers in Missouri...  Big Piney  below Fort Leonard Wood East Gate affecting Pulaski County  .Heavy rainfall Saturday will cause river levels to rise above flood stage."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-15T09:08:00-05:00",
+         "expires": "2020-03-16T00:08:00-05:00",
+         "counties affected": "Vernon, MO",
+         "description": "...The Flood Warning continues for the following rivers in Missouri...  Big Piney  below Fort Leonard Wood East Gate affecting Pulaski County Little Osage River near Horton affecting Vernon County Marmaton River near Nevada affecting Vernon County  .Heavy rainfall caused river levels to rise above flood stage."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-15T09:08:00-05:00",
+         "expires": "2020-03-16T00:08:00-05:00",
+         "counties affected": "Vernon, MO",
+         "description": "...The Flood Warning continues for the following rivers in Missouri...  Big Piney  below Fort Leonard Wood East Gate affecting Pulaski County Little Osage River near Horton affecting Vernon County Marmaton River near Nevada affecting Vernon County  .Heavy rainfall caused river levels to rise above flood stage."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-14T20:43:00-05:00",
+         "expires": "2020-03-16T00:43:00-05:00",
+         "counties affected": "Mississippi, MO; Fulton, KY; Hickman, KY; Alexander, IL; Carlisle, KY; Ballard, KY; Pulaski, IL",
+         "description": "...The flood warning continues for the following rivers in Illinois...Kentucky...Missouri... Ohio River at Shawneetown affecting Gallatin...Hardin...Crittenden and Union Counties Ohio River at Olmsted Lock and Dam affecting Pulaski and Ballard Counties Ohio River at Cairo affecting Alexander...Pulaski...Ballard... Carlisle...Fulton...Hickman and Mississippi Counties  .River levels will remain elevated on the lower Ohio River.  The Flood Warning continues for the Ohio River at Cairo * until further notice. * At  8:00 PM Saturday the stage was 41.7 feet. * Flood Stage is 40.0 feet. * Minor flooding is occurring and Minor flooding is forecast. * Forecast...The river will continue rising to near 46.0 feet by Saturday morning then begin falling."
+      },
+      {
+         "event": "Flood Advisory",
+         "issued": "2020-03-14T20:05:00-05:00",
+         "expires": "2020-03-15T20:04:00-05:00",
+         "counties affected": "New Madrid, MO; Pemiscot, MO; Lake, TN",
+         "description": "...The Flood Advisory continues for the Mississippi River... Mississippi River at Tiptonville affecting New Madrid...Pemiscot and Lake Counties  The Flood Advisory continues for the Mississippi River at Tiptonville * until Tuesday March 24. * At 7 PM Saturday the stage was 32.1 feet. * Flood stage is 37.0 feet. * Forecast...The river will rise to near 36.5 feet Sunday March 22. * At 36.0 feet...In Missouri, Most fields around Robinson Lake in Pemiscot County are covered by flood water."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-14T19:36:00-05:00",
+         "expires": "2020-03-15T19:36:00-05:00",
+         "counties affected": "Cass, MO; Johnson, MO; Henry, MO",
+         "description": "...The Flood Warning continues for the following rivers in Missouri...  Big Creek at Blairstown affecting Cass...Henry and Johnson Counties.  The Flood Warning continues for The Big Creek at Blairstown. * until Monday afternoon. * At  7:00 PM Saturday the stage was 20.7 feet. * Flood stage is 20.0 feet. * Minor flooding is occurring and Minor flooding is forecast. * Forecast...The river will continue rising to near 21.5 feet by early Sunday morning. The river will fall below flood stage early Sunday afternoon. * At 20.0 feet...The west bank of the creek begins to flood."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-14T19:27:00-05:00",
+         "expires": "2020-03-15T23:26:00-05:00",
+         "counties affected": "Scott, MO; Union, IL; Alexander, IL; Jackson, IL; Cape Girardeau, MO; Perry, MO",
+         "description": "...The flood warning continues for the following rivers in Illinois...Missouri...  Mississippi River at Cape Girardeau affecting Alexander...Jackson... Union...Cape Girardeau...Perry and Scott Counties  .The river will continue rising. It is forecast to rise above flood stage by tomorrow morning.  The Flood Warning continues for the Mississippi River at Cape Girardeau. * from late tonight to Sunday March 22. * At  7:00 PM Saturday the stage was 31.9 feet. * Flood Stage is 32.0 feet. * Minor flooding is forecast. * Forecast...Rise above flood stage by after midnight tomorrow and continue to rise to near 34.0 feet by Thursday early afternoon. * Impact...At 36.0 Feet...The flood gate on Themis Street closes."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-14T18:24:00-05:00",
+         "expires": "2020-03-15T18:23:00-05:00",
+         "counties affected": "Saline, MO; Cooper, MO",
+         "description": "...The National Weather Service in Pleasant Hill Mo has issued a flood warning for the following rivers in Missouri...  Blackwater River near Blue Lick affecting Cooper and Saline Counties.  The National Weather Service in Pleasant Hill Mo has issued a  * Flood Warning for The Blackwater River near Blue Lick. * from Sunday morning to Monday evening. * At  5:45 PM Saturday the stage was 20.0 feet. * Flood stage is 24.0 feet. * Minor flooding is forecast. * Forecast...Rise above flood stage by late Sunday morning and continue to rise to near 24.3 feet by early Sunday afternoon. The river will fall below flood stage by Sunday before midnight. * At 24.0 feet...Cropland and pastures along the river flood."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-14T11:40:00-05:00",
+         "expires": "2020-03-15T11:41:00-05:00",
+         "counties affected": "Lauderdale, TN; Dyer, TN; Pemiscot, MO; Lake, TN; Mississippi, AR",
+         "description": "The Flood Warning continues for the Mississippi River.  The Flood Warning continues for the Mississippi River at Caruthersville * from Wednesday March 18 until Wednesday March 25. * At 11 AM Saturday the stage was 29.7 feet. * Minor flooding is forecast. * Maximum forecast stage of 34.5 feet on Monday March 23. * Flood stage is 32.0 feet. * Forecast to rise above flood stage by Wednesday March 18 and continue to rise to near 34.5 feet by Monday March 23.The river will fall below flood stage by Wednesday March 25. * At 35.0 feet...Grounds of the riverboat factory north of Caruthersville, Missouri are flooding. Park on riverbank at Caruthersville is beginning to go under water. In Tennessee, Barr Road is under two feet of water in places and evacuations are very difficult. Most unprotected farm land near the river and portions of Highway 104 in western Dyer County are impacted."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-14T10:04:00-05:00",
+         "expires": "2020-03-15T14:05:00-05:00",
+         "counties affected": "Mississippi, MO; New Madrid, MO; Fulton, KY",
+         "description": "...The flood warning continues for the following rivers in Kentucky... Green River at Paradise  .Minor flooding continues on the Green River at Paradise. The river is forecast to crest near 385.0 feet Monday evening.  * At  9:00 AM Saturday the stage was 29.5 feet. * Flood Stage is 34.0 feet. * Forecast...Rise above flood stage by Friday evening and continue to rise to near 34.5 feet by Sunday morning. The river will fall below flood stage by Monday morning. * Impact...At 34.0 Feet...Minor flooding occurs affecting mainly bottomland and surrounding low lying areas."
+      },
+      {
+         "event": "Flood Warning",
+         "issued": "2020-03-14T10:04:00-05:00",
+         "expires": "2020-03-15T14:05:00-05:00",
+         "counties affected": "Scott, MO; Alexander, IL",
+         "description": "...The flood warning continues for the following rivers in Kentucky... Green River at Paradise  .Minor flooding continues on the Green River at Paradise. The river is forecast to crest near 385.0 feet Monday evening.  * At  9:30 AM Saturday the stage was 30.5 feet. * Flood Stage is 33.0 feet. * Forecast...The river is expected to rise to near flood stage early Friday morning. * Impact...At 33.0 Feet...The town of Gale begins to flood."
+      }
    ]
 }
